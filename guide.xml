@@ -4,13 +4,17 @@
     <display-name lang="pt">AeE</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="AeE2">
-    <display-name lang="pt">AeE2</display-name>
-    <url>http://www.clarotv.com.br</url>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="AeE3">
-    <display-name lang="pt">AeE3</display-name>
-    <url>http://www.lineup.net.br</url>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Arte1">
+    <display-name lang="pt">Arte1</display-name>
+    <url>http://www.meuguia.tv</url>
   </channel>
   <programme start="20200810230000 -0300" stop="20200811004500 -0300" channel="AeE">
     <title lang="pt">Na Trilha do Assassino</title>
@@ -497,5 +501,1655 @@
   </programme>
   <programme start="20200816233000 -0300" stop="20200817012000 -0300" channel="AeE">
     <title lang="pt">Jogo de Poder</title>
+  </programme>
+  <programme start="20200810223000 -0300" stop="20200811010000 -0300" channel="AMC">
+    <title lang="pt">Redenção</title>
+  </programme>
+  <programme start="20200811010000 -0300" stop="20200811024500 -0300" channel="AMC">
+    <title lang="pt">O Imperador</title>
+  </programme>
+  <programme start="20200811024500 -0300" stop="20200811050000 -0300" channel="AMC">
+    <title lang="pt">Limite Vertical</title>
+  </programme>
+  <programme start="20200811050000 -0300" stop="20200811070000 -0300" channel="AMC">
+    <title lang="pt">Agente do Futuro</title>
+  </programme>
+  <programme start="20200811070000 -0300" stop="20200811073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200811073000 -0300" stop="20200811080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200811080000 -0300" stop="20200811083000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200811083000 -0300" stop="20200811090000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200811090000 -0300" stop="20200811093000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200811093000 -0300" stop="20200811100000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200811100000 -0300" stop="20200811103000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200811103000 -0300" stop="20200811113000 -0300" channel="AMC">
+    <title lang="pt">NOS4A2</title>
+  </programme>
+  <programme start="20200811113000 -0300" stop="20200811123000 -0300" channel="AMC">
+    <title lang="pt">Fear The Walking Dead</title>
+  </programme>
+  <programme start="20200811123000 -0300" stop="20200811141500 -0300" channel="AMC">
+    <title lang="pt">O Paizão</title>
+  </programme>
+  <programme start="20200811141500 -0300" stop="20200811164000 -0300" channel="AMC">
+    <title lang="pt">Anjos da Noite</title>
+  </programme>
+  <programme start="20200811164000 -0300" stop="20200811184000 -0300" channel="AMC">
+    <title lang="pt">Agente do Futuro</title>
+  </programme>
+  <programme start="20200811184000 -0300" stop="20200811202000 -0300" channel="AMC">
+    <title lang="pt">Real Beleza</title>
+  </programme>
+  <programme start="20200811202000 -0300" stop="20200811223000 -0300" channel="AMC">
+    <title lang="pt">O Exorcismo de Emily Rose</title>
+  </programme>
+  <programme start="20200811223000 -0300" stop="20200811233000 -0300" channel="AMC">
+    <title lang="pt">NOS4A2</title>
+  </programme>
+  <programme start="20200811233000 -0300" stop="20200812015000 -0300" channel="AMC">
+    <title lang="pt">Terror em Silent Hill</title>
+  </programme>
+  <programme start="20200812015000 -0300" stop="20200812032500 -0300" channel="AMC">
+    <title lang="pt">Frankenstein: Entre Anjos e Demônios</title>
+  </programme>
+  <programme start="20200812032500 -0300" stop="20200812050000 -0300" channel="AMC">
+    <title lang="pt">Perseguição</title>
+  </programme>
+  <programme start="20200812050000 -0300" stop="20200812060000 -0300" channel="AMC">
+    <title lang="pt">Fear The Walking Dead</title>
+  </programme>
+  <programme start="20200812060000 -0300" stop="20200812063000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200812063000 -0300" stop="20200812070000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200812070000 -0300" stop="20200812073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200812073000 -0300" stop="20200812080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200812080000 -0300" stop="20200812083000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200812083000 -0300" stop="20200812090000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200812090000 -0300" stop="20200812093000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200812093000 -0300" stop="20200812100000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200812100000 -0300" stop="20200812103000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200812103000 -0300" stop="20200812113000 -0300" channel="AMC">
+    <title lang="pt">NOS4A2</title>
+  </programme>
+  <programme start="20200812113000 -0300" stop="20200812123000 -0300" channel="AMC">
+    <title lang="pt">Fear The Walking Dead</title>
+  </programme>
+  <programme start="20200812123000 -0300" stop="20200812140500 -0300" channel="AMC">
+    <title lang="pt">À Prova de Balas</title>
+  </programme>
+  <programme start="20200812140500 -0300" stop="20200812161500 -0300" channel="AMC">
+    <title lang="pt">Um Porto Seguro</title>
+  </programme>
+  <programme start="20200812161500 -0300" stop="20200812184500 -0300" channel="AMC">
+    <title lang="pt">Redenção</title>
+  </programme>
+  <programme start="20200812184500 -0300" stop="20200812204000 -0300" channel="AMC">
+    <title lang="pt">#nudes</title>
+  </programme>
+  <programme start="20200812204000 -0300" stop="20200812223000 -0300" channel="AMC">
+    <title lang="pt">Dose Dupla</title>
+  </programme>
+  <programme start="20200812223000 -0300" stop="20200813010500 -0300" channel="AMC">
+    <title lang="pt">Bad Boys II</title>
+  </programme>
+  <programme start="20200813010500 -0300" stop="20200813031000 -0300" channel="AMC">
+    <title lang="pt">6 Balas</title>
+  </programme>
+  <programme start="20200813031000 -0300" stop="20200813050000 -0300" channel="AMC">
+    <title lang="pt">O Paizão</title>
+  </programme>
+  <programme start="20200813050000 -0300" stop="20200813060000 -0300" channel="AMC">
+    <title lang="pt">Fear The Walking Dead</title>
+  </programme>
+  <programme start="20200813060000 -0300" stop="20200813063000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200813063000 -0300" stop="20200813070000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200813070000 -0300" stop="20200813073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200813073000 -0300" stop="20200813080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200813080000 -0300" stop="20200813083000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200813083000 -0300" stop="20200813090000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200813090000 -0300" stop="20200813093000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200813093000 -0300" stop="20200813100000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200813100000 -0300" stop="20200813103000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200813103000 -0300" stop="20200813113000 -0300" channel="AMC">
+    <title lang="pt">NOS4A2</title>
+  </programme>
+  <programme start="20200813113000 -0300" stop="20200813123000 -0300" channel="AMC">
+    <title lang="pt">Fear The Walking Dead</title>
+  </programme>
+  <programme start="20200813123000 -0300" stop="20200813141500 -0300" channel="AMC">
+    <title lang="pt">O Paizão</title>
+  </programme>
+  <programme start="20200813141500 -0300" stop="20200813163500 -0300" channel="AMC">
+    <title lang="pt">Os Mercenários 3</title>
+  </programme>
+  <programme start="20200813163500 -0300" stop="20200813191000 -0300" channel="AMC">
+    <title lang="pt">Bad Boys II</title>
+  </programme>
+  <programme start="20200813191000 -0300" stop="20200813204500 -0300" channel="AMC">
+    <title lang="pt">Estive em Lisboa e Lembrei de Você</title>
+  </programme>
+  <programme start="20200813204500 -0300" stop="20200813223000 -0300" channel="AMC">
+    <title lang="pt">Gente Grande</title>
+  </programme>
+  <programme start="20200813223000 -0300" stop="20200814003000 -0300" channel="AMC">
+    <title lang="pt">O Homem Sem Sombra</title>
+  </programme>
+  <programme start="20200814003000 -0300" stop="20200814025000 -0300" channel="AMC">
+    <title lang="pt">Caçadores De Emoção</title>
+  </programme>
+  <programme start="20200814025000 -0300" stop="20200814051500 -0300" channel="AMC">
+    <title lang="pt">Guerra ao Terror</title>
+  </programme>
+  <programme start="20200814051500 -0300" stop="20200814061500 -0300" channel="AMC">
+    <title lang="pt">Fear The Walking Dead</title>
+  </programme>
+  <programme start="20200814061500 -0300" stop="20200814064000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200814064000 -0300" stop="20200814070500 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200814070500 -0300" stop="20200814073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200814073000 -0300" stop="20200814080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200814080000 -0300" stop="20200814083000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200814083000 -0300" stop="20200814090000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200814090000 -0300" stop="20200814093000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200814093000 -0300" stop="20200814100000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200814100000 -0300" stop="20200814103000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200814103000 -0300" stop="20200814113000 -0300" channel="AMC">
+    <title lang="pt">NOS4A2</title>
+  </programme>
+  <programme start="20200814113000 -0300" stop="20200814123000 -0300" channel="AMC">
+    <title lang="pt">Fear The Walking Dead</title>
+  </programme>
+  <programme start="20200814123000 -0300" stop="20200814142000 -0300" channel="AMC">
+    <title lang="pt">Gente Grande</title>
+  </programme>
+  <programme start="20200814142000 -0300" stop="20200814155500 -0300" channel="AMC">
+    <title lang="pt">O Diário de Carson Phillips</title>
+  </programme>
+  <programme start="20200814155500 -0300" stop="20200814175500 -0300" channel="AMC">
+    <title lang="pt">Click</title>
+  </programme>
+  <programme start="20200814175500 -0300" stop="20200814200500 -0300" channel="AMC">
+    <title lang="pt">Um Porto Seguro</title>
+  </programme>
+  <programme start="20200814200500 -0300" stop="20200814223000 -0300" channel="AMC">
+    <title lang="pt">Um Homem de Família</title>
+  </programme>
+  <programme start="20200814223000 -0300" stop="20200815002000 -0300" channel="AMC">
+    <title lang="pt">Sempre ao Seu Lado</title>
+  </programme>
+  <programme start="20200815002000 -0300" stop="20200815021500 -0300" channel="AMC">
+    <title lang="pt">Snatch - Porcos e Diamantes</title>
+  </programme>
+  <programme start="20200815021500 -0300" stop="20200815041000 -0300" channel="AMC">
+    <title lang="pt">Drive</title>
+  </programme>
+  <programme start="20200815041000 -0300" stop="20200815060000 -0300" channel="AMC">
+    <title lang="pt">Ligados Pelo Amor</title>
+  </programme>
+  <programme start="20200815060000 -0300" stop="20200815063000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200815063000 -0300" stop="20200815070000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200815070000 -0300" stop="20200815073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200815073000 -0300" stop="20200815080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200815080000 -0300" stop="20200815083000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200815083000 -0300" stop="20200815090000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200815090000 -0300" stop="20200815093000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200815093000 -0300" stop="20200815100000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200815100000 -0300" stop="20200815103000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200815103000 -0300" stop="20200815113000 -0300" channel="AMC">
+    <title lang="pt">NOS4A2</title>
+  </programme>
+  <programme start="20200815113000 -0300" stop="20200815122500 -0300" channel="AMC">
+    <title lang="pt">Fear The Walking Dead</title>
+  </programme>
+  <programme start="20200815122500 -0300" stop="20200815142500 -0300" channel="AMC">
+    <title lang="pt">Click</title>
+  </programme>
+  <programme start="20200815142500 -0300" stop="20200815164500 -0300" channel="AMC">
+    <title lang="pt">Limite Vertical</title>
+  </programme>
+  <programme start="20200815164500 -0300" stop="20200815184000 -0300" channel="AMC">
+    <title lang="pt">O Sequestro do Metrô 1 2 3</title>
+  </programme>
+  <programme start="20200815184000 -0300" stop="20200815203500 -0300" channel="AMC">
+    <title lang="pt">Imperador</title>
+  </programme>
+  <programme start="20200815203500 -0300" stop="20200815223000 -0300" channel="AMC">
+    <title lang="pt">O Apocalipse</title>
+  </programme>
+  <programme start="20200815223000 -0300" stop="20200816010000 -0300" channel="AMC">
+    <title lang="pt">O Protetor</title>
+  </programme>
+  <programme start="20200816010000 -0300" stop="20200816025000 -0300" channel="AMC">
+    <title lang="pt">Filha de Deus</title>
+  </programme>
+  <programme start="20200816025000 -0300" stop="20200816043500 -0300" channel="AMC">
+    <title lang="pt">A Vingança de Wyatt Earp</title>
+  </programme>
+  <programme start="20200816043500 -0300" stop="20200816065000 -0300" channel="AMC">
+    <title lang="pt">Riddick 3</title>
+  </programme>
+  <programme start="20200816065000 -0300" stop="20200816071500 -0300" channel="AMC">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200816071500 -0300" stop="20200816074000 -0300" channel="AMC">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200816074000 -0300" stop="20200816080500 -0300" channel="AMC">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200816080500 -0300" stop="20200816083000 -0300" channel="AMC">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200816083000 -0300" stop="20200816090000 -0300" channel="AMC">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200816090000 -0300" stop="20200816093000 -0300" channel="AMC">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200816093000 -0300" stop="20200816100000 -0300" channel="AMC">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200816100000 -0300" stop="20200816115000 -0300" channel="AMC">
+    <title lang="pt">Magia ao Luar</title>
+  </programme>
+  <programme start="20200816115000 -0300" stop="20200816142000 -0300" channel="AMC">
+    <title lang="pt">O Protetor</title>
+  </programme>
+  <programme start="20200816142000 -0300" stop="20200816164000 -0300" channel="AMC">
+    <title lang="pt">Jurassic Park - O Parque Dos Dinossauros</title>
+  </programme>
+  <programme start="20200816164000 -0300" stop="20200816190500 -0300" channel="AMC">
+    <title lang="pt">Jurassic Park: O Mundo Perdido</title>
+  </programme>
+  <programme start="20200816190500 -0300" stop="20200816204000 -0300" channel="AMC">
+    <title lang="pt">Jurassic Park 3</title>
+  </programme>
+  <programme start="20200816204000 -0300" stop="20200816223000 -0300" channel="AMC">
+    <title lang="pt">O Sequestro do Metrô 1 2 3</title>
+  </programme>
+  <programme start="20200816223000 -0300" stop="20200817001500 -0300" channel="AMC">
+    <title lang="pt">Blitz</title>
+  </programme>
+  <programme start="20200810002300 -0300" stop="20200810004900 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Espetaculares</title>
+  </programme>
+  <programme start="20200810004900 -0300" stop="20200810014200 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+  </programme>
+  <programme start="20200810014200 -0300" stop="20200810023500 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+  </programme>
+  <programme start="20200810023500 -0300" stop="20200810032900 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+  </programme>
+  <programme start="20200810032900 -0300" stop="20200810042300 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico</title>
+  </programme>
+  <programme start="20200810042300 -0300" stop="20200810051700 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico</title>
+  </programme>
+  <programme start="20200810051700 -0300" stop="20200810061100 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico</title>
+  </programme>
+  <programme start="20200810061100 -0300" stop="20200810063400 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200810063400 -0300" stop="20200810065700 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200810065700 -0300" stop="20200810074700 -0300" channel="Animal Planet">
+    <title lang="pt">A Família Irwin</title>
+  </programme>
+  <programme start="20200810074700 -0300" stop="20200810083800 -0300" channel="Animal Planet">
+    <title lang="pt">A Família Irwin</title>
+  </programme>
+  <programme start="20200810083800 -0300" stop="20200810092900 -0300" channel="Animal Planet">
+    <title lang="pt">A Família Irwin</title>
+  </programme>
+  <programme start="20200810092900 -0300" stop="20200810102000 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+  </programme>
+  <programme start="20200810102000 -0300" stop="20200810111100 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+  </programme>
+  <programme start="20200810111100 -0300" stop="20200810120200 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+  </programme>
+  <programme start="20200810120200 -0300" stop="20200810125100 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200810125100 -0300" stop="20200810134200 -0300" channel="Animal Planet">
+    <title lang="pt">Cara a Cara com as Feras</title>
+  </programme>
+  <programme start="20200810134200 -0300" stop="20200810143300 -0300" channel="Animal Planet">
+    <title lang="pt">Cara a Cara com as Feras</title>
+  </programme>
+  <programme start="20200810143300 -0300" stop="20200810152400 -0300" channel="Animal Planet">
+    <title lang="pt">Cara a Cara com as Feras</title>
+  </programme>
+  <programme start="20200810152400 -0300" stop="20200810161600 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Insana</title>
+  </programme>
+  <programme start="20200810161600 -0300" stop="20200810170800 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Insana</title>
+  </programme>
+  <programme start="20200810170800 -0300" stop="20200810180000 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca ao Extremo</title>
+  </programme>
+  <programme start="20200810180000 -0300" stop="20200810182600 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil</title>
+  </programme>
+  <programme start="20200810182600 -0300" stop="20200810185200 -0300" channel="Animal Planet">
+    <title lang="pt">Vida No Azul</title>
+  </programme>
+  <programme start="20200810185200 -0300" stop="20200810194300 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+  </programme>
+  <programme start="20200810194300 -0300" stop="20200810203400 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200810203400 -0300" stop="20200810212500 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200810212500 -0300" stop="20200810221600 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200810221600 -0300" stop="20200810230700 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200810230700 -0300" stop="20200810235800 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200810235800 -0300" stop="20200811004900 -0300" channel="Animal Planet">
+    <title lang="pt">SOS VET</title>
+  </programme>
+  <programme start="20200811004900 -0300" stop="20200811014200 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200811014200 -0300" stop="20200811023500 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200811023500 -0300" stop="20200811032900 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200811032900 -0300" stop="20200811042300 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200811042300 -0300" stop="20200811051700 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200811051700 -0300" stop="20200811061100 -0300" channel="Animal Planet">
+    <title lang="pt">SOS VET</title>
+  </programme>
+  <programme start="20200811061100 -0300" stop="20200811063400 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200811063400 -0300" stop="20200811065700 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200811065700 -0300" stop="20200811074700 -0300" channel="Animal Planet">
+    <title lang="pt">Um Lar para Pets</title>
+  </programme>
+  <programme start="20200811074700 -0300" stop="20200811083800 -0300" channel="Animal Planet">
+    <title lang="pt">Um Lar para Pets</title>
+  </programme>
+  <programme start="20200811083800 -0300" stop="20200811092900 -0300" channel="Animal Planet">
+    <title lang="pt">Um Lar para Pets</title>
+  </programme>
+  <programme start="20200811092900 -0300" stop="20200811095500 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200811095500 -0300" stop="20200811102000 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200811102000 -0300" stop="20200811104600 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200811104600 -0300" stop="20200811111100 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200811111100 -0300" stop="20200811113700 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200811113700 -0300" stop="20200811120200 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200811120200 -0300" stop="20200811125400 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200811125400 -0300" stop="20200811134500 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido no México</title>
+  </programme>
+  <programme start="20200811134500 -0300" stop="20200811143600 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido no México</title>
+  </programme>
+  <programme start="20200811143600 -0300" stop="20200811152700 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido no México</title>
+  </programme>
+  <programme start="20200811152700 -0300" stop="20200811161800 -0300" channel="Animal Planet">
+    <title lang="pt">Europa Selvagem</title>
+  </programme>
+  <programme start="20200811161800 -0300" stop="20200811170900 -0300" channel="Animal Planet">
+    <title lang="pt">Europa Selvagem</title>
+  </programme>
+  <programme start="20200811170900 -0300" stop="20200811180000 -0300" channel="Animal Planet">
+    <title lang="pt">Europa Selvagem</title>
+  </programme>
+  <programme start="20200811180000 -0300" stop="20200811182600 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil</title>
+  </programme>
+  <programme start="20200811182600 -0300" stop="20200811185200 -0300" channel="Animal Planet">
+    <title lang="pt">Vida No Azul</title>
+  </programme>
+  <programme start="20200811185200 -0300" stop="20200811194300 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Mutante</title>
+  </programme>
+  <programme start="20200811194300 -0300" stop="20200811203400 -0300" channel="Animal Planet">
+    <title lang="pt">Dinastias</title>
+  </programme>
+  <programme start="20200811203400 -0300" stop="20200811212500 -0300" channel="Animal Planet">
+    <title lang="pt">Oriente Médio Selvagem</title>
+  </programme>
+  <programme start="20200811212500 -0300" stop="20200811221600 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Terra</title>
+  </programme>
+  <programme start="20200811221600 -0300" stop="20200811230700 -0300" channel="Animal Planet">
+    <title lang="pt">Extinto ou Não?</title>
+  </programme>
+  <programme start="20200811230700 -0300" stop="20200811235800 -0300" channel="Animal Planet">
+    <title lang="pt">Cara a Cara com as Feras</title>
+  </programme>
+  <programme start="20200811235800 -0300" stop="20200812004900 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico</title>
+  </programme>
+  <programme start="20200812004900 -0300" stop="20200812014200 -0300" channel="Animal Planet">
+    <title lang="pt">Dinastias</title>
+  </programme>
+  <programme start="20200812014200 -0300" stop="20200812023500 -0300" channel="Animal Planet">
+    <title lang="pt">Oriente Médio Selvagem</title>
+  </programme>
+  <programme start="20200812023500 -0300" stop="20200812032900 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Terra</title>
+  </programme>
+  <programme start="20200812032900 -0300" stop="20200812042300 -0300" channel="Animal Planet">
+    <title lang="pt">Extinto ou Não?</title>
+  </programme>
+  <programme start="20200812042300 -0300" stop="20200812051700 -0300" channel="Animal Planet">
+    <title lang="pt">Cara a Cara com as Feras</title>
+  </programme>
+  <programme start="20200812051700 -0300" stop="20200812061100 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico</title>
+  </programme>
+  <programme start="20200812061100 -0300" stop="20200812063400 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200812063400 -0300" stop="20200812065700 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200812065700 -0300" stop="20200812074700 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinário das Montanhas</title>
+  </programme>
+  <programme start="20200812074700 -0300" stop="20200812083800 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinário das Montanhas</title>
+  </programme>
+  <programme start="20200812083800 -0300" stop="20200812092900 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinário das Montanhas</title>
+  </programme>
+  <programme start="20200812092900 -0300" stop="20200812102000 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico</title>
+  </programme>
+  <programme start="20200812102000 -0300" stop="20200812111100 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico</title>
+  </programme>
+  <programme start="20200812111100 -0300" stop="20200812120200 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico</title>
+  </programme>
+  <programme start="20200812120200 -0300" stop="20200812125400 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200812125400 -0300" stop="20200812134500 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Mutante</title>
+  </programme>
+  <programme start="20200812134500 -0300" stop="20200812143600 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Mutante</title>
+  </programme>
+  <programme start="20200812143600 -0300" stop="20200812152700 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Mutante</title>
+  </programme>
+  <programme start="20200812152700 -0300" stop="20200812161800 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200812161800 -0300" stop="20200812170900 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200812170900 -0300" stop="20200812180000 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200812180000 -0300" stop="20200812182600 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil</title>
+  </programme>
+  <programme start="20200812182600 -0300" stop="20200812185200 -0300" channel="Animal Planet">
+    <title lang="pt">Vida No Azul</title>
+  </programme>
+  <programme start="20200812185200 -0300" stop="20200812194300 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200812194300 -0300" stop="20200812203400 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200812203400 -0300" stop="20200812210000 -0300" channel="Animal Planet">
+    <title lang="pt">Pequenos Gigantes da Natureza</title>
+  </programme>
+  <programme start="20200812210000 -0300" stop="20200812212500 -0300" channel="Animal Planet">
+    <title lang="pt">Pequenos Gigantes da Natureza</title>
+  </programme>
+  <programme start="20200812212500 -0300" stop="20200812221600 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na África</title>
+  </programme>
+  <programme start="20200812221600 -0300" stop="20200812230700 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200812230700 -0300" stop="20200812235800 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200812235800 -0300" stop="20200813004900 -0300" channel="Animal Planet">
+    <title lang="pt">O Caçador de Crocodilos</title>
+  </programme>
+  <programme start="20200813004900 -0300" stop="20200813014200 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200813014200 -0300" stop="20200813023500 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200813023500 -0300" stop="20200813030200 -0300" channel="Animal Planet">
+    <title lang="pt">Pequenos Gigantes da Natureza</title>
+  </programme>
+  <programme start="20200813030200 -0300" stop="20200813032900 -0300" channel="Animal Planet">
+    <title lang="pt">Pequenos Gigantes da Natureza</title>
+  </programme>
+  <programme start="20200813032900 -0300" stop="20200813042300 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na África</title>
+  </programme>
+  <programme start="20200813042300 -0300" stop="20200813051700 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200813051700 -0300" stop="20200813061100 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200813061100 -0300" stop="20200813063400 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200813063400 -0300" stop="20200813065700 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200813065700 -0300" stop="20200813074700 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200813074700 -0300" stop="20200813083800 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200813083800 -0300" stop="20200813092900 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200813092900 -0300" stop="20200813102000 -0300" channel="Animal Planet">
+    <title lang="pt">Meu Gato Endiabrado</title>
+  </programme>
+  <programme start="20200813102000 -0300" stop="20200813111100 -0300" channel="Animal Planet">
+    <title lang="pt">Meu Gato Endiabrado</title>
+  </programme>
+  <programme start="20200813111100 -0300" stop="20200813120200 -0300" channel="Animal Planet">
+    <title lang="pt">Meu Gato Endiabrado</title>
+  </programme>
+  <programme start="20200813120200 -0300" stop="20200813125400 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200813125400 -0300" stop="20200813134500 -0300" channel="Animal Planet">
+    <title lang="pt">Vida Selvagem com Evan</title>
+  </programme>
+  <programme start="20200813134500 -0300" stop="20200813143600 -0300" channel="Animal Planet">
+    <title lang="pt">SOS VET</title>
+  </programme>
+  <programme start="20200813143600 -0300" stop="20200813152700 -0300" channel="Animal Planet">
+    <title lang="pt">SOS VET</title>
+  </programme>
+  <programme start="20200813152700 -0300" stop="20200813155200 -0300" channel="Animal Planet">
+    <title lang="pt">Pântano Perigoso</title>
+  </programme>
+  <programme start="20200813155200 -0300" stop="20200813161800 -0300" channel="Animal Planet">
+    <title lang="pt">Pântano Perigoso</title>
+  </programme>
+  <programme start="20200813161800 -0300" stop="20200813164300 -0300" channel="Animal Planet">
+    <title lang="pt">S.O.S. Castores</title>
+  </programme>
+  <programme start="20200813164300 -0300" stop="20200813170900 -0300" channel="Animal Planet">
+    <title lang="pt">S.O.S. Castores</title>
+  </programme>
+  <programme start="20200813170900 -0300" stop="20200813180000 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200813180000 -0300" stop="20200813182600 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil</title>
+  </programme>
+  <programme start="20200813182600 -0300" stop="20200813185200 -0300" channel="Animal Planet">
+    <title lang="pt">Vida No Azul</title>
+  </programme>
+  <programme start="20200813185200 -0300" stop="20200813194300 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Azul</title>
+  </programme>
+  <programme start="20200813194300 -0300" stop="20200813203400 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Azul</title>
+  </programme>
+  <programme start="20200813203400 -0300" stop="20200813212500 -0300" channel="Animal Planet">
+    <title lang="pt">Os Grandes Rios da Terra</title>
+  </programme>
+  <programme start="20200813212500 -0300" stop="20200813221600 -0300" channel="Animal Planet">
+    <title lang="pt">Os Grandes Rios da Terra</title>
+  </programme>
+  <programme start="20200813221600 -0300" stop="20200813230700 -0300" channel="Animal Planet">
+    <title lang="pt">Os Grandes Rios da Terra</title>
+  </programme>
+  <programme start="20200813230700 -0300" stop="20200813235800 -0300" channel="Animal Planet">
+    <title lang="pt">Índia: Natureza Revelada</title>
+  </programme>
+  <programme start="20200813235800 -0300" stop="20200814004900 -0300" channel="Animal Planet">
+    <title lang="pt">Predadores</title>
+  </programme>
+  <programme start="20200814004900 -0300" stop="20200814014200 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Azul</title>
+  </programme>
+  <programme start="20200814014200 -0300" stop="20200814023500 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Azul</title>
+  </programme>
+  <programme start="20200814023500 -0300" stop="20200814032900 -0300" channel="Animal Planet">
+    <title lang="pt">Os Grandes Rios da Terra</title>
+  </programme>
+  <programme start="20200814032900 -0300" stop="20200814042300 -0300" channel="Animal Planet">
+    <title lang="pt">Os Grandes Rios da Terra</title>
+  </programme>
+  <programme start="20200814042300 -0300" stop="20200814051700 -0300" channel="Animal Planet">
+    <title lang="pt">Os Grandes Rios da Terra</title>
+  </programme>
+  <programme start="20200814051700 -0300" stop="20200814061100 -0300" channel="Animal Planet">
+    <title lang="pt">Índia: Natureza Revelada</title>
+  </programme>
+  <programme start="20200814061100 -0300" stop="20200814063400 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200814063400 -0300" stop="20200814065700 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200814065700 -0300" stop="20200814074700 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinários do Texas</title>
+  </programme>
+  <programme start="20200814074700 -0300" stop="20200814083800 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinários do Texas</title>
+  </programme>
+  <programme start="20200814083800 -0300" stop="20200814092900 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinários do Texas</title>
+  </programme>
+  <programme start="20200814092900 -0300" stop="20200814102000 -0300" channel="Animal Planet">
+    <title lang="pt">Família ao Resgate</title>
+  </programme>
+  <programme start="20200814102000 -0300" stop="20200814111100 -0300" channel="Animal Planet">
+    <title lang="pt">Família ao Resgate</title>
+  </programme>
+  <programme start="20200814111100 -0300" stop="20200814120200 -0300" channel="Animal Planet">
+    <title lang="pt">Família ao Resgate</title>
+  </programme>
+  <programme start="20200814120200 -0300" stop="20200814125400 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200814125400 -0300" stop="20200814134500 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+  </programme>
+  <programme start="20200814134500 -0300" stop="20200814143600 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+  </programme>
+  <programme start="20200814143600 -0300" stop="20200814152700 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+  </programme>
+  <programme start="20200814152700 -0300" stop="20200814161800 -0300" channel="Animal Planet">
+    <title lang="pt">Os Grandes Rios da Terra</title>
+  </programme>
+  <programme start="20200814161800 -0300" stop="20200814170900 -0300" channel="Animal Planet">
+    <title lang="pt">Os Grandes Rios da Terra</title>
+  </programme>
+  <programme start="20200814170900 -0300" stop="20200814180000 -0300" channel="Animal Planet">
+    <title lang="pt">Os Grandes Rios da Terra</title>
+  </programme>
+  <programme start="20200814180000 -0300" stop="20200814182600 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil</title>
+  </programme>
+  <programme start="20200814182600 -0300" stop="20200814185200 -0300" channel="Animal Planet">
+    <title lang="pt">Vida No Azul</title>
+  </programme>
+  <programme start="20200814185200 -0300" stop="20200814194300 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200814194300 -0300" stop="20200814203400 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200814203400 -0300" stop="20200814212500 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+  </programme>
+  <programme start="20200814212500 -0300" stop="20200814221600 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+  </programme>
+  <programme start="20200814221600 -0300" stop="20200814230700 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+  </programme>
+  <programme start="20200814230700 -0300" stop="20200814235800 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200814235800 -0300" stop="20200815004900 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200815004900 -0300" stop="20200815014200 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200815014200 -0300" stop="20200815023500 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+  </programme>
+  <programme start="20200815023500 -0300" stop="20200815032900 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+  </programme>
+  <programme start="20200815032900 -0300" stop="20200815042300 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+  </programme>
+  <programme start="20200815042300 -0300" stop="20200815051700 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200815051700 -0300" stop="20200815061100 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200815061100 -0300" stop="20200815063400 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200815063400 -0300" stop="20200815065700 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200815065700 -0300" stop="20200815074700 -0300" channel="Animal Planet">
+    <title lang="pt">Dra. Dee: Veterinária do Alasca</title>
+  </programme>
+  <programme start="20200815074700 -0300" stop="20200815083800 -0300" channel="Animal Planet">
+    <title lang="pt">Dra. Dee: Veterinária do Alasca</title>
+  </programme>
+  <programme start="20200815083800 -0300" stop="20200815092900 -0300" channel="Animal Planet">
+    <title lang="pt">Vida Selvagem com Evan</title>
+  </programme>
+  <programme start="20200815092900 -0300" stop="20200815102000 -0300" channel="Animal Planet">
+    <title lang="pt">Vida Selvagem com Evan</title>
+  </programme>
+  <programme start="20200815102000 -0300" stop="20200815111100 -0300" channel="Animal Planet">
+    <title lang="pt">Vida Selvagem com Evan</title>
+  </programme>
+  <programme start="20200815111100 -0300" stop="20200815120200 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200815120200 -0300" stop="20200815125400 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200815125400 -0300" stop="20200815134500 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Insana</title>
+  </programme>
+  <programme start="20200815134500 -0300" stop="20200815143600 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Insana</title>
+  </programme>
+  <programme start="20200815143600 -0300" stop="20200815152700 -0300" channel="Animal Planet">
+    <title lang="pt">Jeremy Wade: Rios Grandiosos</title>
+  </programme>
+  <programme start="20200815152700 -0300" stop="20200815161800 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido no Sudeste Asiático</title>
+  </programme>
+  <programme start="20200815161800 -0300" stop="20200815170900 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na Ásia</title>
+  </programme>
+  <programme start="20200815170900 -0300" stop="20200815180000 -0300" channel="Animal Planet">
+    <title lang="pt">Espiões da Natureza</title>
+  </programme>
+  <programme start="20200815180000 -0300" stop="20200815185200 -0300" channel="Animal Planet">
+    <title lang="pt">Vida</title>
+  </programme>
+  <programme start="20200815185200 -0300" stop="20200815194300 -0300" channel="Animal Planet">
+    <title lang="pt">As Quatro Estações da Terra</title>
+  </programme>
+  <programme start="20200815194300 -0300" stop="20200815203400 -0300" channel="Animal Planet">
+    <title lang="pt">Serengeti</title>
+  </programme>
+  <programme start="20200815203400 -0300" stop="20200815212500 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Terra</title>
+  </programme>
+  <programme start="20200815212500 -0300" stop="20200815221600 -0300" channel="Animal Planet">
+    <title lang="pt">Animais das Montanhas</title>
+  </programme>
+  <programme start="20200815221600 -0300" stop="20200815230700 -0300" channel="Animal Planet">
+    <title lang="pt">Cidades: A Vida Selvagem</title>
+  </programme>
+  <programme start="20200815230700 -0300" stop="20200815235800 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico de San Diego</title>
+  </programme>
+  <programme start="20200815235800 -0300" stop="20200816004900 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico</title>
+  </programme>
+  <programme start="20200816004900 -0300" stop="20200816014200 -0300" channel="Animal Planet">
+    <title lang="pt">Um Lar para Pets</title>
+  </programme>
+  <programme start="20200816014200 -0300" stop="20200816023500 -0300" channel="Animal Planet">
+    <title lang="pt">Um Lar para Pets</title>
+  </programme>
+  <programme start="20200816023500 -0300" stop="20200816032900 -0300" channel="Animal Planet">
+    <title lang="pt">Um Lar para Pets</title>
+  </programme>
+  <programme start="20200816032900 -0300" stop="20200816042300 -0300" channel="Animal Planet">
+    <title lang="pt">Dodo Heroes: Resgate Sem Fronteiras</title>
+  </programme>
+  <programme start="20200816042300 -0300" stop="20200816051700 -0300" channel="Animal Planet">
+    <title lang="pt">Dodo Heroes: Resgate Sem Fronteiras</title>
+  </programme>
+  <programme start="20200816051700 -0300" stop="20200816061100 -0300" channel="Animal Planet">
+    <title lang="pt">Dodo Heroes: Resgate Sem Fronteiras</title>
+  </programme>
+  <programme start="20200816061100 -0300" stop="20200816063400 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200816063400 -0300" stop="20200816065700 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200816065700 -0300" stop="20200816072200 -0300" channel="Animal Planet">
+    <title lang="pt">Emergência Pet</title>
+  </programme>
+  <programme start="20200816072200 -0300" stop="20200816074700 -0300" channel="Animal Planet">
+    <title lang="pt">Emergência Pet</title>
+  </programme>
+  <programme start="20200816074700 -0300" stop="20200816083800 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinário das Montanhas</title>
+  </programme>
+  <programme start="20200816083800 -0300" stop="20200816092900 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+  </programme>
+  <programme start="20200816092900 -0300" stop="20200816102000 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+  </programme>
+  <programme start="20200816102000 -0300" stop="20200816111100 -0300" channel="Animal Planet">
+    <title lang="pt">Serengeti</title>
+  </programme>
+  <programme start="20200816111100 -0300" stop="20200816120200 -0300" channel="Animal Planet">
+    <title lang="pt">Indochina Selvagem</title>
+  </programme>
+  <programme start="20200816120200 -0300" stop="20200816125400 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Terra</title>
+  </programme>
+  <programme start="20200816125400 -0300" stop="20200816134500 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Mutante</title>
+  </programme>
+  <programme start="20200816134500 -0300" stop="20200816143600 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinário das Montanhas</title>
+  </programme>
+  <programme start="20200816143600 -0300" stop="20200816152700 -0300" channel="Animal Planet">
+    <title lang="pt">Espiões da Natureza</title>
+  </programme>
+  <programme start="20200816152700 -0300" stop="20200816161800 -0300" channel="Animal Planet">
+    <title lang="pt">Predadores</title>
+  </programme>
+  <programme start="20200816161800 -0300" stop="20200816170900 -0300" channel="Animal Planet">
+    <title lang="pt">Serengeti</title>
+  </programme>
+  <programme start="20200816170900 -0300" stop="20200816180000 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Azul</title>
+  </programme>
+  <programme start="20200816180000 -0300" stop="20200816182600 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Espetaculares</title>
+  </programme>
+  <programme start="20200816182600 -0300" stop="20200816185200 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Espetaculares</title>
+  </programme>
+  <programme start="20200816185200 -0300" stop="20200816194300 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20200816194300 -0300" stop="20200816203400 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20200816203400 -0300" stop="20200816212500 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20200816212500 -0300" stop="20200816221600 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20200816221600 -0300" stop="20200816230700 -0300" channel="Animal Planet">
+    <title lang="pt">Casas na Árvore</title>
+  </programme>
+  <programme start="20200816230700 -0300" stop="20200816235800 -0300" channel="Animal Planet">
+    <title lang="pt">Casas na Árvore</title>
+  </programme>
+  <programme start="20200816235800 -0300" stop="20200817002300 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Espetaculares</title>
+  </programme>
+  <programme start="20200810000000 -0300" stop="20200810010000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 em Série</title>
+  </programme>
+  <programme start="20200810010000 -0300" stop="20200810013000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 em Movimento</title>
+  </programme>
+  <programme start="20200810013000 -0300" stop="20200810013500 -0300" channel="Arte1">
+    <title lang="pt">Inspirações Arte 1</title>
+  </programme>
+  <programme start="20200810013500 -0300" stop="20200810014000 -0300" channel="Arte1">
+    <title lang="pt">Primeira Vez Arte 1</title>
+  </programme>
+  <programme start="20200810014000 -0300" stop="20200810015000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Na Mira</title>
+  </programme>
+  <programme start="20200810015000 -0300" stop="20200810020000 -0300" channel="Arte1">
+    <title lang="pt">Cena Arte 1</title>
+  </programme>
+  <programme start="20200810020000 -0300" stop="20200810033000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Nacional</title>
+  </programme>
+  <programme start="20200810033000 -0300" stop="20200810040000 -0300" channel="Arte1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20200810040000 -0300" stop="20200810043000 -0300" channel="Arte1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20200810043000 -0300" stop="20200810050000 -0300" channel="Arte1">
+    <title lang="pt">Jazz Icons</title>
+  </programme>
+  <programme start="20200810050000 -0300" stop="20200810060000 -0300" channel="Arte1">
+    <title lang="pt">Bio Arte 1</title>
+  </programme>
+  <programme start="20200810060000 -0300" stop="20200810061500 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200810061500 -0300" stop="20200810064500 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 em Movimento</title>
+  </programme>
+  <programme start="20200810064500 -0300" stop="20200810071500 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Encontra</title>
+  </programme>
+  <programme start="20200810071500 -0300" stop="20200810093000 -0300" channel="Arte1">
+    <title lang="pt">Cine Clube Arte 1</title>
+  </programme>
+  <programme start="20200810093000 -0300" stop="20200810103000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Em Série</title>
+  </programme>
+  <programme start="20200810103000 -0300" stop="20200810114500 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 na Dança</title>
+  </programme>
+  <programme start="20200810114500 -0300" stop="20200810120000 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200810120000 -0300" stop="20200810130000 -0300" channel="Arte1">
+    <title lang="pt">Bio Arte 1</title>
+  </programme>
+  <programme start="20200810130000 -0300" stop="20200810140000 -0300" channel="Arte1">
+    <title lang="pt">Arte na Fotografia</title>
+  </programme>
+  <programme start="20200810140000 -0300" stop="20200810143000 -0300" channel="Arte1">
+    <title lang="pt">Segundo Take</title>
+  </programme>
+  <programme start="20200810143000 -0300" stop="20200810143700 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200810143700 -0300" stop="20200810144500 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200810144500 -0300" stop="20200810170000 -0300" channel="Arte1">
+    <title lang="pt">Cine Clube Arte 1</title>
+  </programme>
+  <programme start="20200810170000 -0300" stop="20200810180000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Em Série</title>
+  </programme>
+  <programme start="20200810180000 -0300" stop="20200810190000 -0300" channel="Arte1">
+    <title lang="pt">Arte na Fotografia</title>
+  </programme>
+  <programme start="20200810190000 -0300" stop="20200810203000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Nacional</title>
+  </programme>
+  <programme start="20200810203000 -0300" stop="20200810210000 -0300" channel="Arte1">
+    <title lang="pt">Um Artista</title>
+  </programme>
+  <programme start="20200810210000 -0300" stop="20200810230000 -0300" channel="Arte1">
+    <title lang="pt">Leilão de Arte James Lisboa</title>
+  </programme>
+  <programme start="20200810230000 -0300" stop="20200810233000 -0300" channel="Arte1">
+    <title lang="pt">A Arte do Cinema</title>
+  </programme>
+  <programme start="20200810233000 -0300" stop="20200811010000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 In Concert</title>
+  </programme>
+  <programme start="20200811010000 -0300" stop="20200811030000 -0300" channel="Arte1">
+    <title lang="pt">Cine Clube Arte 1 Clássicos</title>
+  </programme>
+  <programme start="20200811030000 -0300" stop="20200811040000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Em Série</title>
+  </programme>
+  <programme start="20200811040000 -0300" stop="20200811043000 -0300" channel="Arte1">
+    <title lang="pt">Um Artista</title>
+  </programme>
+  <programme start="20200811043000 -0300" stop="20200811050000 -0300" channel="Arte1">
+    <title lang="pt">Designers do Brasil</title>
+  </programme>
+  <programme start="20200811050000 -0300" stop="20200811053000 -0300" channel="Arte1">
+    <title lang="pt">Segundo Take</title>
+  </programme>
+  <programme start="20200811053000 -0300" stop="20200811060000 -0300" channel="Arte1">
+    <title lang="pt">Magazine Arte 1 com The New York Times</title>
+  </programme>
+  <programme start="20200811060000 -0300" stop="20200811071500 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 na Dança</title>
+  </programme>
+  <programme start="20200811071500 -0300" stop="20200811072200 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200811072200 -0300" stop="20200811073000 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200811073000 -0300" stop="20200811093000 -0300" channel="Arte1">
+    <title lang="pt">Cine Clube Arte 1 Clássicos</title>
+  </programme>
+  <programme start="20200811093000 -0300" stop="20200811103000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Em Série</title>
+  </programme>
+  <programme start="20200811103000 -0300" stop="20200811110000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 em Movimento</title>
+  </programme>
+  <programme start="20200811110000 -0300" stop="20200811110500 -0300" channel="Arte1">
+    <title lang="pt">Inspirações Arte 1</title>
+  </programme>
+  <programme start="20200811110500 -0300" stop="20200811111000 -0300" channel="Arte1">
+    <title lang="pt">Primeira Vez Arte 1</title>
+  </programme>
+  <programme start="20200811111000 -0300" stop="20200811112000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Na Mira</title>
+  </programme>
+  <programme start="20200811112000 -0300" stop="20200811113000 -0300" channel="Arte1">
+    <title lang="pt">Cena Arte 1</title>
+  </programme>
+  <programme start="20200811113000 -0300" stop="20200811120000 -0300" channel="Arte1">
+    <title lang="pt">Especial Arte 1</title>
+  </programme>
+  <programme start="20200811120000 -0300" stop="20200811123000 -0300" channel="Arte1">
+    <title lang="pt">A Arte do Cinema</title>
+  </programme>
+  <programme start="20200811123000 -0300" stop="20200811130000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Encontra</title>
+  </programme>
+  <programme start="20200811130000 -0300" stop="20200811143000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Nacional</title>
+  </programme>
+  <programme start="20200811143000 -0300" stop="20200811150000 -0300" channel="Arte1">
+    <title lang="pt">Magazine Arte 1 com The New York Times</title>
+  </programme>
+  <programme start="20200811150000 -0300" stop="20200811170000 -0300" channel="Arte1">
+    <title lang="pt">Cine Clube Arte 1 Clássicos</title>
+  </programme>
+  <programme start="20200811170000 -0300" stop="20200811180000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Em Série</title>
+  </programme>
+  <programme start="20200811180000 -0300" stop="20200811183000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Apresenta</title>
+  </programme>
+  <programme start="20200811183000 -0300" stop="20200811191500 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Apresenta</title>
+  </programme>
+  <programme start="20200811191500 -0300" stop="20200811193000 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200811193000 -0300" stop="20200811200000 -0300" channel="Arte1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20200811200000 -0300" stop="20200811203000 -0300" channel="Arte1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20200811203000 -0300" stop="20200811210000 -0300" channel="Arte1">
+    <title lang="pt">Jazz Icons</title>
+  </programme>
+  <programme start="20200811210000 -0300" stop="20200811213000 -0300" channel="Arte1">
+    <title lang="pt">Especial Arte 1</title>
+  </programme>
+  <programme start="20200811213000 -0300" stop="20200811223000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Visual</title>
+  </programme>
+  <programme start="20200811223000 -0300" stop="20200811230000 -0300" channel="Arte1">
+    <title lang="pt">Um Artista</title>
+  </programme>
+  <programme start="20200811230000 -0300" stop="20200812003000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Documenta</title>
+  </programme>
+  <programme start="20200812003000 -0300" stop="20200812013000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Em Série</title>
+  </programme>
+  <programme start="20200812013000 -0300" stop="20200812020000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Encontra</title>
+  </programme>
+  <programme start="20200812020000 -0300" stop="20200812023000 -0300" channel="Arte1">
+    <title lang="pt">Especial Arte 1</title>
+  </programme>
+  <programme start="20200812023000 -0300" stop="20200812033000 -0300" channel="Arte1">
+    <title lang="pt">Teatros no Brasil: Castro Alves - O Teatro e o Homem</title>
+  </programme>
+  <programme start="20200812033000 -0300" stop="20200812040000 -0300" channel="Arte1">
+    <title lang="pt">A Arte do Cinema</title>
+  </programme>
+  <programme start="20200812040000 -0300" stop="20200812043000 -0300" channel="Arte1">
+    <title lang="pt">Jazz Icons</title>
+  </programme>
+  <programme start="20200812043000 -0300" stop="20200812053000 -0300" channel="Arte1">
+    <title lang="pt">Arte na Fotografia</title>
+  </programme>
+  <programme start="20200812053000 -0300" stop="20200812060000 -0300" channel="Arte1">
+    <title lang="pt">Designers do Brasil</title>
+  </programme>
+  <programme start="20200812060000 -0300" stop="20200812063000 -0300" channel="Arte1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20200812063000 -0300" stop="20200812070000 -0300" channel="Arte1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20200812070000 -0300" stop="20200812080000 -0300" channel="Arte1">
+    <title lang="pt">Bio Arte 1</title>
+  </programme>
+  <programme start="20200812080000 -0300" stop="20200812093000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Documenta</title>
+  </programme>
+  <programme start="20200812093000 -0300" stop="20200812103000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 em Série</title>
+  </programme>
+  <programme start="20200812103000 -0300" stop="20200812110000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Apresenta</title>
+  </programme>
+  <programme start="20200812110000 -0300" stop="20200812114500 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Apresenta</title>
+  </programme>
+  <programme start="20200812114500 -0300" stop="20200812115200 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200812115200 -0300" stop="20200812120000 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200812120000 -0300" stop="20200812130000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Visual</title>
+  </programme>
+  <programme start="20200812130000 -0300" stop="20200812143000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 In Concert</title>
+  </programme>
+  <programme start="20200812143000 -0300" stop="20200812150000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Encontra</title>
+  </programme>
+  <programme start="20200812150000 -0300" stop="20200812163000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Documenta</title>
+  </programme>
+  <programme start="20200812163000 -0300" stop="20200812170000 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200812170000 -0300" stop="20200812180000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 em Série</title>
+  </programme>
+  <programme start="20200812180000 -0300" stop="20200812193000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Nacional</title>
+  </programme>
+  <programme start="20200812193000 -0300" stop="20200812200000 -0300" channel="Arte1">
+    <title lang="pt">Designers do Brasil</title>
+  </programme>
+  <programme start="20200812200000 -0300" stop="20200812203000 -0300" channel="Arte1">
+    <title lang="pt">Segundo Take</title>
+  </programme>
+  <programme start="20200812203000 -0300" stop="20200812213000 -0300" channel="Arte1">
+    <title lang="pt">Teatros no Brasil:Teatro Amazonas - O Filho Ouro da Floresta</title>
+  </programme>
+  <programme start="20200812213000 -0300" stop="20200812230000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 na Dança</title>
+  </programme>
+  <programme start="20200812230000 -0300" stop="20200813013000 -0300" channel="Arte1">
+    <title lang="pt">Cine Clube Arte 1</title>
+  </programme>
+  <programme start="20200813013000 -0300" stop="20200813023000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 em Série</title>
+  </programme>
+  <programme start="20200813023000 -0300" stop="20200813033000 -0300" channel="Arte1">
+    <title lang="pt">Arte na Fotografia</title>
+  </programme>
+  <programme start="20200813033000 -0300" stop="20200813053000 -0300" channel="Arte1">
+    <title lang="pt">Cine Clube Arte 1 Clássicos</title>
+  </programme>
+  <programme start="20200813053000 -0300" stop="20200813053700 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200813053700 -0300" stop="20200813054500 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200813054500 -0300" stop="20200813061500 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Apresenta</title>
+  </programme>
+  <programme start="20200813061500 -0300" stop="20200813070000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Apresenta</title>
+  </programme>
+  <programme start="20200813070000 -0300" stop="20200813093000 -0300" channel="Arte1">
+    <title lang="pt">Cine Clube Arte 1</title>
+  </programme>
+  <programme start="20200813093000 -0300" stop="20200813103000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 em Série</title>
+  </programme>
+  <programme start="20200813103000 -0300" stop="20200813113000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Visual</title>
+  </programme>
+  <programme start="20200813113000 -0300" stop="20200813120000 -0300" channel="Arte1">
+    <title lang="pt">Magazine Arte 1 com The New York Times</title>
+  </programme>
+  <programme start="20200813120000 -0300" stop="20200813123000 -0300" channel="Arte1">
+    <title lang="pt">Jazz Icons</title>
+  </programme>
+  <programme start="20200813123000 -0300" stop="20200813130000 -0300" channel="Arte1">
+    <title lang="pt">Designers do Brasil</title>
+  </programme>
+  <programme start="20200813130000 -0300" stop="20200813143000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 na Dança</title>
+  </programme>
+  <programme start="20200813143000 -0300" stop="20200813170000 -0300" channel="Arte1">
+    <title lang="pt">Cine Clube Arte 1</title>
+  </programme>
+  <programme start="20200813170000 -0300" stop="20200813180000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 em Série</title>
+  </programme>
+  <programme start="20200813180000 -0300" stop="20200813190000 -0300" channel="Arte1">
+    <title lang="pt">Teatros no Brasil:Teatro Amazonas - O Filho Ouro da Floresta</title>
+  </programme>
+  <programme start="20200813190000 -0300" stop="20200813193000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Encontra</title>
+  </programme>
+  <programme start="20200813193000 -0300" stop="20200813203000 -0300" channel="Arte1">
+    <title lang="pt">Bio Arte 1</title>
+  </programme>
+  <programme start="20200813203000 -0300" stop="20200813213000 -0300" channel="Arte1">
+    <title lang="pt">Arte na Fotografia</title>
+  </programme>
+  <programme start="20200813213000 -0300" stop="20200813220000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 em Movimento</title>
+  </programme>
+  <programme start="20200813220000 -0300" stop="20200813220700 -0300" channel="Arte1">
+    <title lang="pt">Lista Arte 1</title>
+  </programme>
+  <programme start="20200813220700 -0300" stop="20200813221300 -0300" channel="Arte1">
+    <title lang="pt">Primeira Vez Arte 1</title>
+  </programme>
+  <programme start="20200813221300 -0300" stop="20200813223000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Na Mira</title>
+  </programme>
+  <programme start="20200813223000 -0300" stop="20200813230000 -0300" channel="Arte1">
+    <title lang="pt">Especial Arte 1</title>
+  </programme>
+  <programme start="20200813230000 -0300" stop="20200814004500 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Documenta</title>
+  </programme>
+  <programme start="20200814004500 -0300" stop="20200814014500 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 em Série</title>
+  </programme>
+  <programme start="20200814014500 -0300" stop="20200814024500 -0300" channel="Arte1">
+    <title lang="pt">Teatros no Brasil:Teatro Amazonas - O Filho Ouro da Floresta</title>
+  </programme>
+  <programme start="20200814024500 -0300" stop="20200814041500 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 In Concert</title>
+  </programme>
+  <programme start="20200814041500 -0300" stop="20200814051500 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Visual</title>
+  </programme>
+  <programme start="20200814051500 -0300" stop="20200814054500 -0300" channel="Arte1">
+    <title lang="pt">Um Artista</title>
+  </programme>
+  <programme start="20200814054500 -0300" stop="20200814061500 -0300" channel="Arte1">
+    <title lang="pt">Magazine Arte 1 com The New York Times</title>
+  </programme>
+  <programme start="20200814061500 -0300" stop="20200814074500 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Nacional</title>
+  </programme>
+  <programme start="20200814074500 -0300" stop="20200814093000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Documenta</title>
+  </programme>
+  <programme start="20200814093000 -0300" stop="20200814100000 -0300" channel="Arte1">
+    <title lang="pt">Designers do Brasil</title>
+  </programme>
+  <programme start="20200814100000 -0300" stop="20200814103000 -0300" channel="Arte1">
+    <title lang="pt">A Arte do Cinema</title>
+  </programme>
+  <programme start="20200814103000 -0300" stop="20200814120000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 In Concert</title>
+  </programme>
+  <programme start="20200814120000 -0300" stop="20200814123000 -0300" channel="Arte1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20200814123000 -0300" stop="20200814130000 -0300" channel="Arte1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20200814130000 -0300" stop="20200814133000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Apresenta</title>
+  </programme>
+  <programme start="20200814133000 -0300" stop="20200814141500 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Apresenta</title>
+  </programme>
+  <programme start="20200814141500 -0300" stop="20200814142200 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200814142200 -0300" stop="20200814143000 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200814143000 -0300" stop="20200814150000 -0300" channel="Arte1">
+    <title lang="pt">Um Artista</title>
+  </programme>
+  <programme start="20200814150000 -0300" stop="20200814164500 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Documenta</title>
+  </programme>
+  <programme start="20200814164500 -0300" stop="20200814165200 -0300" channel="Arte1">
+    <title lang="pt">A Crucigramista</title>
+  </programme>
+  <programme start="20200814165200 -0300" stop="20200814170000 -0300" channel="Arte1">
+    <title lang="pt">A Crucigramista</title>
+  </programme>
+  <programme start="20200814170000 -0300" stop="20200814173000 -0300" channel="Arte1">
+    <title lang="pt">Designers do Brasil</title>
+  </programme>
+  <programme start="20200814173000 -0300" stop="20200814180000 -0300" channel="Arte1">
+    <title lang="pt">Especial Arte 1</title>
+  </programme>
+  <programme start="20200814180000 -0300" stop="20200814190000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Visual</title>
+  </programme>
+  <programme start="20200814190000 -0300" stop="20200814193000 -0300" channel="Arte1">
+    <title lang="pt">A Arte do Cinema</title>
+  </programme>
+  <programme start="20200814193000 -0300" stop="20200814203000 -0300" channel="Arte1">
+    <title lang="pt">Teatros no Brasil:Teatro Amazonas - O Filho Ouro da Floresta</title>
+  </programme>
+  <programme start="20200814203000 -0300" stop="20200814210000 -0300" channel="Arte1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20200814210000 -0300" stop="20200814213000 -0300" channel="Arte1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20200814213000 -0300" stop="20200814223000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Apresenta</title>
+  </programme>
+  <programme start="20200814223000 -0300" stop="20200814223700 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200814223700 -0300" stop="20200814224500 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200814224500 -0300" stop="20200814225200 -0300" channel="Arte1">
+    <title lang="pt">A Crucigramista</title>
+  </programme>
+  <programme start="20200814225200 -0300" stop="20200814230000 -0300" channel="Arte1">
+    <title lang="pt">A Crucigramista</title>
+  </programme>
+  <programme start="20200814230000 -0300" stop="20200815011500 -0300" channel="Arte1">
+    <title lang="pt">Cine Clube Arte 1</title>
+  </programme>
+  <programme start="20200815011500 -0300" stop="20200815014500 -0300" channel="Arte1">
+    <title lang="pt">Magazine Arte 1 com The New York Times</title>
+  </programme>
+  <programme start="20200815014500 -0300" stop="20200815021500 -0300" channel="Arte1">
+    <title lang="pt">Jazz Icons</title>
+  </programme>
+  <programme start="20200815021500 -0300" stop="20200815024500 -0300" channel="Arte1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20200815024500 -0300" stop="20200815031500 -0300" channel="Arte1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20200815031500 -0300" stop="20200815034500 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Encontra</title>
+  </programme>
+  <programme start="20200815034500 -0300" stop="20200815051500 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 na Dança</title>
+  </programme>
+  <programme start="20200815051500 -0300" stop="20200815052200 -0300" channel="Arte1">
+    <title lang="pt">A Crucigramista</title>
+  </programme>
+  <programme start="20200815052200 -0300" stop="20200815053000 -0300" channel="Arte1">
+    <title lang="pt">A Crucigramista</title>
+  </programme>
+  <programme start="20200815053000 -0300" stop="20200815060000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Apresenta</title>
+  </programme>
+  <programme start="20200815060000 -0300" stop="20200815063000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Apresenta</title>
+  </programme>
+  <programme start="20200815063000 -0300" stop="20200815070000 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200815070000 -0300" stop="20200815083000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 In Concert</title>
+  </programme>
+  <programme start="20200815083000 -0300" stop="20200815090000 -0300" channel="Arte1">
+    <title lang="pt">Especial Arte 1</title>
+  </programme>
+  <programme start="20200815090000 -0300" stop="20200815103000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Documenta</title>
+  </programme>
+  <programme start="20200815103000 -0300" stop="20200815110000 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200815110000 -0300" stop="20200815113000 -0300" channel="Arte1">
+    <title lang="pt">Segundo Take</title>
+  </programme>
+  <programme start="20200815113000 -0300" stop="20200815134500 -0300" channel="Arte1">
+    <title lang="pt">Cine Clube Arte 1</title>
+  </programme>
+  <programme start="20200815134500 -0300" stop="20200815135200 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200815135200 -0300" stop="20200815140000 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200815140000 -0300" stop="20200815143000 -0300" channel="Arte1">
+    <title lang="pt">Jazz Icons</title>
+  </programme>
+  <programme start="20200815143000 -0300" stop="20200815153000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Em Série</title>
+  </programme>
+  <programme start="20200815153000 -0300" stop="20200815163000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Em Série</title>
+  </programme>
+  <programme start="20200815163000 -0300" stop="20200815180000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 na Dança</title>
+  </programme>
+  <programme start="20200815180000 -0300" stop="20200815193000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Nacional</title>
+  </programme>
+  <programme start="20200815193000 -0300" stop="20200815200000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Encontra</title>
+  </programme>
+  <programme start="20200815200000 -0300" stop="20200815203000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 em Movimento</title>
+  </programme>
+  <programme start="20200815203000 -0300" stop="20200815203700 -0300" channel="Arte1">
+    <title lang="pt">Lista Arte 1</title>
+  </programme>
+  <programme start="20200815203700 -0300" stop="20200815204300 -0300" channel="Arte1">
+    <title lang="pt">Primeira Vez Arte 1</title>
+  </programme>
+  <programme start="20200815204300 -0300" stop="20200815210000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Na Mira</title>
+  </programme>
+  <programme start="20200815210000 -0300" stop="20200815213000 -0300" channel="Arte1">
+    <title lang="pt">Segundo Take</title>
+  </programme>
+  <programme start="20200815213000 -0300" stop="20200815220000 -0300" channel="Arte1">
+    <title lang="pt">Magazine Arte 1 com The New York Times</title>
+  </programme>
+  <programme start="20200815220000 -0300" stop="20200815230000 -0300" channel="Arte1">
+    <title lang="pt">Arte na Fotografia</title>
+  </programme>
+  <programme start="20200815230000 -0300" stop="20200816000000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 em Série</title>
+  </programme>
+  <programme start="20200816000000 -0300" stop="20200816010000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 em Série</title>
+  </programme>
+  <programme start="20200816010000 -0300" stop="20200816020000 -0300" channel="Arte1">
+    <title lang="pt">Bio Arte 1</title>
+  </programme>
+  <programme start="20200816020000 -0300" stop="20200816033000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 In Concert</title>
+  </programme>
+  <programme start="20200816033000 -0300" stop="20200816050000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Documenta</title>
+  </programme>
+  <programme start="20200816050000 -0300" stop="20200816053000 -0300" channel="Arte1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20200816053000 -0300" stop="20200816060000 -0300" channel="Arte1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20200816060000 -0300" stop="20200816063000 -0300" channel="Arte1">
+    <title lang="pt">Magazine Arte 1 com The New York Times</title>
+  </programme>
+  <programme start="20200816063000 -0300" stop="20200816070000 -0300" channel="Arte1">
+    <title lang="pt">Especial Arte 1</title>
+  </programme>
+  <programme start="20200816070000 -0300" stop="20200816083000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Nacional</title>
+  </programme>
+  <programme start="20200816083000 -0300" stop="20200816090000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 em Movimento</title>
+  </programme>
+  <programme start="20200816090000 -0300" stop="20200816104500 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Documenta</title>
+  </programme>
+  <programme start="20200816104500 -0300" stop="20200816105200 -0300" channel="Arte1">
+    <title lang="pt">A Crucigramista</title>
+  </programme>
+  <programme start="20200816105200 -0300" stop="20200816110000 -0300" channel="Arte1">
+    <title lang="pt">A Crucigramista</title>
+  </programme>
+  <programme start="20200816110000 -0300" stop="20200816133000 -0300" channel="Arte1">
+    <title lang="pt">Cine Clube Arte 1</title>
+  </programme>
+  <programme start="20200816133000 -0300" stop="20200816143000 -0300" channel="Arte1">
+    <title lang="pt">Teatros no Brasil:Teatro Amazonas - O Filho Ouro da Floresta</title>
+  </programme>
+  <programme start="20200816143000 -0300" stop="20200816153000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 em Série</title>
+  </programme>
+  <programme start="20200816153000 -0300" stop="20200816163000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 em Série</title>
+  </programme>
+  <programme start="20200816163000 -0300" stop="20200816173000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Apresenta</title>
+  </programme>
+  <programme start="20200816173000 -0300" stop="20200816180000 -0300" channel="Arte1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200816180000 -0300" stop="20200816183000 -0300" channel="Arte1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20200816183000 -0300" stop="20200816190000 -0300" channel="Arte1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20200816190000 -0300" stop="20200816193000 -0300" channel="Arte1">
+    <title lang="pt">Segundo Take</title>
+  </programme>
+  <programme start="20200816193000 -0300" stop="20200816200000 -0300" channel="Arte1">
+    <title lang="pt">Designers do Brasil</title>
+  </programme>
+  <programme start="20200816200000 -0300" stop="20200816203000 -0300" channel="Arte1">
+    <title lang="pt">Um Artista</title>
+  </programme>
+  <programme start="20200816203000 -0300" stop="20200816213000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Visual</title>
+  </programme>
+  <programme start="20200816213000 -0300" stop="20200816220000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 Encontra</title>
+  </programme>
+  <programme start="20200816220000 -0300" stop="20200816230000 -0300" channel="Arte1">
+    <title lang="pt">Bio Arte 1</title>
+  </programme>
+  <programme start="20200816230000 -0300" stop="20200816233000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 em Série</title>
+  </programme>
+  <programme start="20200816233000 -0300" stop="20200817000000 -0300" channel="Arte1">
+    <title lang="pt">Arte 1 em Série</title>
   </programme>
 </tv>
