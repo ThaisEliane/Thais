@@ -1,10 +1,2030 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Amazon Sat">
+    <display-name lang="pt">Amazon Sat</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <channel id="AMC">
     <display-name lang="pt">AMC</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20200809223000 -0300" stop="20200810010000 -0300" channel="AMC">
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Arte 1">
+    <display-name lang="pt">Arte 1</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="pt">Baby TV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band News">
+    <display-name lang="pt">Band News</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band Rede">
+    <display-name lang="pt">Band Rede</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band Sports">
+    <display-name lang="pt">Band Sports</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BBC Earth">
+    <display-name lang="pt">BBC Earth</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BBC World News">
+    <display-name lang="pt">BBC World News</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Bis HD">
+    <display-name lang="pt">Bis HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="pt">Bloomberg</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="pt">Boomerang</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal 21">
+    <display-name lang="pt">Canal 21</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Brasil">
+    <display-name lang="pt">Canal Brasil</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal do Boi">
+    <display-name lang="pt">Canal do Boi</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Rural">
+    <display-name lang="pt">Canal Rural</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canção Nova">
+    <display-name lang="pt">Canção Nova</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Casa Club TV">
+    <display-name lang="pt">Casa Club TV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Climatempo">
+    <display-name lang="pt">Climatempo</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CNN Espanhol">
+    <display-name lang="pt">CNN Espanhol</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CNN International">
+    <display-name lang="pt">CNN International</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CNT">
+    <display-name lang="pt">CNT</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Combate">
+    <display-name lang="pt">Combate</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Concert Channel">
+    <display-name lang="pt">Concert Channel</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Deutsche Welle">
+    <display-name lang="pt">Deutsche Welle</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Civilization">
+    <display-name lang="pt">Discovery Civilization</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery HD Theater">
+    <display-name lang="pt">Discovery HD Theater</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health">
+    <display-name lang="pt">Discovery Home &amp; Health</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="pt">Discovery Kids</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="pt">Discovery Science</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="pt">Discovery Turbo</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="pt">Disney Channel</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Channel HD">
+    <display-name lang="pt">Disney Channel HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="pt">Disney Junior</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="pt">Disney XD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="E! Entertainment Television">
+    <display-name lang="pt">E! Entertainment Television</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="EI Maxx">
+    <display-name lang="pt">EI Maxx</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="EI Maxx HD">
+    <display-name lang="pt">EI Maxx HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="pt">ESPN</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN Brasil">
+    <display-name lang="pt">ESPN Brasil</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN  HD">
+    <display-name lang="pt">ESPN  HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Esporte Interativo">
+    <display-name lang="pt">Esporte Interativo</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Esporte Interativo Max 2">
+    <display-name lang="pt">Esporte Interativo Max 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Esporte Interativo Max 2 HD">
+    <display-name lang="pt">Esporte Interativo Max 2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Eurochannel">
+    <display-name lang="pt">Eurochannel</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Film &amp; Arts">
+    <display-name lang="pt">Film &amp; Arts</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox">
+    <display-name lang="pt">Fox</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Life">
+    <display-name lang="pt">Fox Life</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox News">
+    <display-name lang="pt">Fox News</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports">
+    <display-name lang="pt">Fox Sports</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports 2">
+    <display-name lang="pt">Fox Sports 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Futura">
+    <display-name lang="pt">Futura</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Glitz*">
+    <display-name lang="pt">Glitz*</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo - Brasilia">
+    <display-name lang="pt">Globo - Brasilia</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo - EPTV Campinas">
+    <display-name lang="pt">Globo - EPTV Campinas</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo - EPTV Ribeirão Preto">
+    <display-name lang="pt">Globo - EPTV Ribeirão Preto</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo - Minas Gerais">
+    <display-name lang="pt">Globo - Minas Gerais</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo - RBS">
+    <display-name lang="pt">Globo - RBS</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo - RJ">
+    <display-name lang="pt">Globo - RJ</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo - SP">
+    <display-name lang="pt">Globo - SP</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo - TV Anhanguera Goiás">
+    <display-name lang="pt">Globo - TV Anhanguera Goiás</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo - TV Bahia">
+    <display-name lang="pt">Globo - TV Bahia</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo News">
+    <display-name lang="pt">Globo News</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Gloob">
+    <display-name lang="pt">Gloob</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GNT">
+    <display-name lang="pt">GNT</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="pt">H2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="H2 HD">
+    <display-name lang="pt">H2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="pt">HBO Family</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Plus">
+    <display-name lang="pt">HBO Plus</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Plus *e">
+    <display-name lang="pt">HBO Plus *e</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="pt">HBO Signature</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Hiper TV">
+    <display-name lang="pt">Hiper TV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="History Channel">
+    <display-name lang="pt">History Channel</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="History Channel HD">
+    <display-name lang="pt">History Channel HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="i-Sat">
+    <display-name lang="pt">i-Sat</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Investigação Discovery">
+    <display-name lang="pt">Investigação Discovery</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Lifetime">
+    <display-name lang="pt">Lifetime</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Max">
+    <display-name lang="pt">Max</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Max Prime">
+    <display-name lang="pt">Max Prime</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Max Prime *e">
+    <display-name lang="pt">Max Prime *e</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Max Up HD">
+    <display-name lang="pt">Max Up HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Megapix">
+    <display-name lang="pt">Megapix</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Megapix HD">
+    <display-name lang="pt">Megapix HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="pt">MTV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Multishow">
+    <display-name lang="pt">Multishow</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="pt">Nat Geo Wild HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="pt">National Geographic</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="NBR">
+    <display-name lang="pt">NBR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="NHK World">
+    <display-name lang="pt">NHK World</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name lang="pt">Nick Jr.</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pt">Nickelodeon</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="OFF HD">
+    <display-name lang="pt">OFF HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Paramount Channel">
+    <display-name lang="pt">Paramount Channel</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Premiere Clubes">
+    <display-name lang="pt">Premiere Clubes</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RAI International">
+    <display-name lang="pt">RAI International</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RBI">
+    <display-name lang="pt">RBI</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record">
+    <display-name lang="pt">Record</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="pt">Record News</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede Boa Vontade">
+    <display-name lang="pt">Rede Boa Vontade</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede Famí­lia">
+    <display-name lang="pt">Rede Famí­lia</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede Gênesis">
+    <display-name lang="pt">Rede Gênesis</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede Internacional de TV">
+    <display-name lang="pt">Rede Internacional de TV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede Super de Televisão">
+    <display-name lang="pt">Rede Super de Televisão</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede TV">
+    <display-name lang="pt">Rede TV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede Vida">
+    <display-name lang="pt">Rede Vida</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RTP Internacional">
+    <display-name lang="pt">RTP Internacional</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rush HD">
+    <display-name lang="pt">Rush HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Santa Cecília TV">
+    <display-name lang="pt">Santa Cecília TV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SESC TV">
+    <display-name lang="pt">SESC TV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Shoptime">
+    <display-name lang="pt">Shoptime</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SIC International">
+    <display-name lang="pt">SIC International</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Sony">
+    <display-name lang="pt">Sony</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPACE">
+    <display-name lang="pt">SPACE</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Space HD">
+    <display-name lang="pt">Space HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV">
+    <display-name lang="pt">SporTV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 2">
+    <display-name lang="pt">SporTV 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 3">
+    <display-name lang="pt">SporTV 3</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="pt">Studio Universal</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SyFy">
+    <display-name lang="pt">SyFy</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TBS">
+    <display-name lang="pt">TBS</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TCM - Turner Classic Movies">
+    <display-name lang="pt">TCM - Turner Classic Movies</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Tele Sur">
+    <display-name lang="pt">Tele Sur</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Cult">
+    <display-name lang="pt">Telecine Cult</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Premium">
+    <display-name lang="pt">Telecine Premium</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Terra Viva">
+    <display-name lang="pt">Terra Viva</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="The Golf Channel">
+    <display-name lang="pt">The Golf Channel</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="pt">TNT HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT Séries">
+    <display-name lang="pt">TNT Séries</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Tooncast">
+    <display-name lang="pt">Tooncast</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TruTV">
+    <display-name lang="pt">TruTV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TruTV HD">
+    <display-name lang="pt">TruTV HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Brasil">
+    <display-name lang="pt">TV Brasil</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Brasil Central">
+    <display-name lang="pt">TV Brasil Central</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Câmara">
+    <display-name lang="pt">TV Câmara</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Corinthians">
+    <display-name lang="pt">TV Corinthians</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Cultura">
+    <display-name lang="pt">TV Cultura</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Escola">
+    <display-name lang="pt">TV Escola</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Espanha">
+    <display-name lang="pt">TV Espanha</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Gazeta">
+    <display-name lang="pt">TV Gazeta</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Globo">
+    <display-name lang="pt">TV Globo</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Justiça">
+    <display-name lang="pt">TV Justiça</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Rá-tim-bum">
+    <display-name lang="pt">TV Rá-tim-bum</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Senado">
+    <display-name lang="pt">TV Senado</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV União">
+    <display-name lang="pt">TV União</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV5 Monde">
+    <display-name lang="pt">TV5 Monde</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Universal Channel">
+    <display-name lang="pt">Universal Channel</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Vh1">
+    <display-name lang="pt">Vh1</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Vh1 HD">
+    <display-name lang="pt">Vh1 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="VH1 Mega Hits">
+    <display-name lang="pt">VH1 Mega Hits</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Viva">
+    <display-name lang="pt">Viva</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Warner Channel">
+    <display-name lang="pt">Warner Channel</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Woohoo">
+    <display-name lang="pt">Woohoo</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200810230000 -0300" stop="20200811004500 -0300" channel="A&amp;E">
+    <title lang="pt">Na Trilha do Assassino</title>
+  </programme>
+  <programme start="20200810000000 -0300" stop="20200810073000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tv Nazaré</title>
+  </programme>
+  <programme start="20200810073000 -0300" stop="20200810080000 -0300" channel="Amazon Sat">
+    <title lang="pt">Faixa interprograma</title>
+  </programme>
+  <programme start="20200810080000 -0300" stop="20200810090000 -0300" channel="Amazon Sat">
+    <title lang="pt">Janela para o Futura</title>
+  </programme>
+  <programme start="20200810090000 -0300" stop="20200810093000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+  </programme>
+  <programme start="20200810093000 -0300" stop="20200810100000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repensar</title>
+  </programme>
+  <programme start="20200810100000 -0300" stop="20200810103000 -0300" channel="Amazon Sat">
+    <title lang="pt">Fazendo Esperança</title>
+  </programme>
+  <programme start="20200810103000 -0300" stop="20200810110000 -0300" channel="Amazon Sat">
+    <title lang="pt">Programa Nobre</title>
+  </programme>
+  <programme start="20200810110000 -0300" stop="20200810120000 -0300" channel="Amazon Sat">
+    <title lang="pt">Dia de Campo na TV</title>
+  </programme>
+  <programme start="20200810120000 -0300" stop="20200810123000 -0300" channel="Amazon Sat">
+    <title lang="pt">Ler+1</title>
+  </programme>
+  <programme start="20200810123000 -0300" stop="20200810130000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viaje Por Aí</title>
+  </programme>
+  <programme start="20200810130000 -0300" stop="20200810133000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+  </programme>
+  <programme start="20200810133000 -0300" stop="20200810143000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+  </programme>
+  <programme start="20200810143000 -0300" stop="20200810150000 -0300" channel="Amazon Sat">
+    <title lang="pt">Vento Norte</title>
+  </programme>
+  <programme start="20200810150000 -0300" stop="20200810153000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+  </programme>
+  <programme start="20200810153000 -0300" stop="20200810160000 -0300" channel="Amazon Sat">
+    <title lang="pt">Literatura em foco</title>
+  </programme>
+  <programme start="20200810160000 -0300" stop="20200810170000 -0300" channel="Amazon Sat">
+    <title lang="pt">Janela para o Futura</title>
+  </programme>
+  <programme start="20200810170000 -0300" stop="20200810173000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+  </programme>
+  <programme start="20200810173000 -0300" stop="20200810180000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repensar</title>
+  </programme>
+  <programme start="20200810180000 -0300" stop="20200810183000 -0300" channel="Amazon Sat">
+    <title lang="pt">Fazendo Esperança</title>
+  </programme>
+  <programme start="20200810183000 -0300" stop="20200810190000 -0300" channel="Amazon Sat">
+    <title lang="pt">Programa Nobre</title>
+  </programme>
+  <programme start="20200810190000 -0300" stop="20200810200000 -0300" channel="Amazon Sat">
+    <title lang="pt">Dia de Campo na TV</title>
+  </programme>
+  <programme start="20200810200000 -0300" stop="20200810203000 -0300" channel="Amazon Sat">
+    <title lang="pt">Ler+1</title>
+  </programme>
+  <programme start="20200810203000 -0300" stop="20200810210000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viaje Por Aí</title>
+  </programme>
+  <programme start="20200810210000 -0300" stop="20200810213000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+  </programme>
+  <programme start="20200810213000 -0300" stop="20200810223000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+  </programme>
+  <programme start="20200810223000 -0300" stop="20200810230000 -0300" channel="Amazon Sat">
+    <title lang="pt">Vento Norte</title>
+  </programme>
+  <programme start="20200810230000 -0300" stop="20200810233000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+  </programme>
+  <programme start="20200810233000 -0300" stop="20200811000000 -0300" channel="Amazon Sat">
+    <title lang="pt">Literatura em foco</title>
+  </programme>
+  <programme start="20200810223000 -0300" stop="20200811010000 -0300" channel="AMC">
     <title lang="pt">Redenção</title>
+  </programme>
+  <programme start="20200810235800 -0300" stop="20200811002300 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Espetaculares</title>
+  </programme>
+  <programme start="20200810000000 -0300" stop="20200810010000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+  </programme>
+  <programme start="20200810010000 -0300" stop="20200810013000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Movimento</title>
+  </programme>
+  <programme start="20200810013000 -0300" stop="20200810013500 -0300" channel="Arte 1">
+    <title lang="pt">Inspirações Arte 1</title>
+  </programme>
+  <programme start="20200810013500 -0300" stop="20200810014000 -0300" channel="Arte 1">
+    <title lang="pt">Primeira Vez Arte 1</title>
+  </programme>
+  <programme start="20200810014000 -0300" stop="20200810015000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Na Mira</title>
+  </programme>
+  <programme start="20200810015000 -0300" stop="20200810020000 -0300" channel="Arte 1">
+    <title lang="pt">Cena Arte 1</title>
+  </programme>
+  <programme start="20200810020000 -0300" stop="20200810033000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Nacional</title>
+  </programme>
+  <programme start="20200810033000 -0300" stop="20200810040000 -0300" channel="Arte 1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20200810040000 -0300" stop="20200810043000 -0300" channel="Arte 1">
+    <title lang="pt">Immersive World</title>
+  </programme>
+  <programme start="20200810043000 -0300" stop="20200810050000 -0300" channel="Arte 1">
+    <title lang="pt">Jazz Icons</title>
+  </programme>
+  <programme start="20200810050000 -0300" stop="20200810060000 -0300" channel="Arte 1">
+    <title lang="pt">Bio Arte 1</title>
+  </programme>
+  <programme start="20200810060000 -0300" stop="20200810061500 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200810061500 -0300" stop="20200810064500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Movimento</title>
+  </programme>
+  <programme start="20200810064500 -0300" stop="20200810071500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Encontra</title>
+  </programme>
+  <programme start="20200810071500 -0300" stop="20200810093000 -0300" channel="Arte 1">
+    <title lang="pt">Cine Clube Arte 1</title>
+  </programme>
+  <programme start="20200810093000 -0300" stop="20200810103000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Em Série</title>
+  </programme>
+  <programme start="20200810103000 -0300" stop="20200810114500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 na Dança</title>
+  </programme>
+  <programme start="20200810114500 -0300" stop="20200810120000 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200810120000 -0300" stop="20200810130000 -0300" channel="Arte 1">
+    <title lang="pt">Bio Arte 1</title>
+  </programme>
+  <programme start="20200810130000 -0300" stop="20200810140000 -0300" channel="Arte 1">
+    <title lang="pt">Arte na Fotografia</title>
+  </programme>
+  <programme start="20200810140000 -0300" stop="20200810143000 -0300" channel="Arte 1">
+    <title lang="pt">Segundo Take</title>
+  </programme>
+  <programme start="20200810143000 -0300" stop="20200810143700 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200810143700 -0300" stop="20200810144500 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+  </programme>
+  <programme start="20200810144500 -0300" stop="20200810170000 -0300" channel="Arte 1">
+    <title lang="pt">Cine Clube Arte 1</title>
+  </programme>
+  <programme start="20200810170000 -0300" stop="20200810180000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Em Série</title>
+  </programme>
+  <programme start="20200810180000 -0300" stop="20200810190000 -0300" channel="Arte 1">
+    <title lang="pt">Arte na Fotografia</title>
+  </programme>
+  <programme start="20200810190000 -0300" stop="20200810203000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Nacional</title>
+  </programme>
+  <programme start="20200810203000 -0300" stop="20200810210000 -0300" channel="Arte 1">
+    <title lang="pt">Um Artista</title>
+  </programme>
+  <programme start="20200810210000 -0300" stop="20200810230000 -0300" channel="Arte 1">
+    <title lang="pt">Leilão de Arte James Lisboa</title>
+  </programme>
+  <programme start="20200810230000 -0300" stop="20200810233000 -0300" channel="Arte 1">
+    <title lang="pt">A Arte do Cinema</title>
+  </programme>
+  <programme start="20200810233000 -0300" stop="20200811010000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 In Concert</title>
+  </programme>
+  <programme start="20200810232500 -0300" stop="20200811002000 -0300" channel="AXN">
+    <title lang="pt">Helix</title>
+  </programme>
+  <programme start="20200810232500 -0300" stop="20200811002000 -0300" channel="AXN HD">
+    <title lang="pt">Helix</title>
+  </programme>
+  <programme start="20200810000000 -0300" stop="20200810003000 -0300" channel="Baby TV">
+    <title lang="pt">Oceano</title>
+  </programme>
+  <programme start="20200810003000 -0300" stop="20200810010000 -0300" channel="Baby TV">
+    <title lang="pt">Estrela Cadente</title>
+  </programme>
+  <programme start="20200810010000 -0300" stop="20200810013000 -0300" channel="Baby TV">
+    <title lang="pt">Luar</title>
+  </programme>
+  <programme start="20200810013000 -0300" stop="20200810020000 -0300" channel="Baby TV">
+    <title lang="pt">Via Láctea</title>
+  </programme>
+  <programme start="20200810020000 -0300" stop="20200810023000 -0300" channel="Baby TV">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200810023000 -0300" stop="20200810030000 -0300" channel="Baby TV">
+    <title lang="pt">Noites Estreladas</title>
+  </programme>
+  <programme start="20200810030000 -0300" stop="20200810033000 -0300" channel="Baby TV">
+    <title lang="pt">Luar</title>
+  </programme>
+  <programme start="20200810033000 -0300" stop="20200810040000 -0300" channel="Baby TV">
+    <title lang="pt">Crepúsculo</title>
+  </programme>
+  <programme start="20200810040000 -0300" stop="20200810043000 -0300" channel="Baby TV">
+    <title lang="pt">Céu</title>
+  </programme>
+  <programme start="20200810043000 -0300" stop="20200810050000 -0300" channel="Baby TV">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200810050000 -0300" stop="20200810053000 -0300" channel="Baby TV">
+    <title lang="pt">No Mundo dos Brinquedos</title>
+  </programme>
+  <programme start="20200810053000 -0300" stop="20200810060000 -0300" channel="Baby TV">
+    <title lang="pt">Charlie &amp; o Alfabeto Inglês</title>
+  </programme>
+  <programme start="20200810060000 -0300" stop="20200810063000 -0300" channel="Baby TV">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200810063000 -0300" stop="20200810070000 -0300" channel="Baby TV">
+    <title lang="pt">Tulli</title>
+  </programme>
+  <programme start="20200810070000 -0300" stop="20200810073000 -0300" channel="Baby TV">
+    <title lang="pt">LaLe Ki LoLu</title>
+  </programme>
+  <programme start="20200810073000 -0300" stop="20200810080000 -0300" channel="Baby TV">
+    <title lang="pt">Tutti Frutti</title>
+  </programme>
+  <programme start="20200810080000 -0300" stop="20200810083000 -0300" channel="Baby TV">
+    <title lang="pt">Lições de Teeny &amp; Tiny</title>
+  </programme>
+  <programme start="20200810083000 -0300" stop="20200810090000 -0300" channel="Baby TV">
+    <title lang="pt">Bons Amigos</title>
+  </programme>
+  <programme start="20200810090000 -0300" stop="20200810093000 -0300" channel="Baby TV">
+    <title lang="pt">O Circo Veio à Cidade</title>
+  </programme>
+  <programme start="20200810093000 -0300" stop="20200810100000 -0300" channel="Baby TV">
+    <title lang="pt">Parabéns à Você</title>
+  </programme>
+  <programme start="20200810100000 -0300" stop="20200810103000 -0300" channel="Baby TV">
+    <title lang="pt">Let's Dance</title>
+  </programme>
+  <programme start="20200810103000 -0300" stop="20200810110000 -0300" channel="Baby TV">
+    <title lang="pt">Estúdios BabyTV</title>
+  </programme>
+  <programme start="20200810110000 -0300" stop="20200810113000 -0300" channel="Baby TV">
+    <title lang="pt">Let's Dance</title>
+  </programme>
+  <programme start="20200810113000 -0300" stop="20200810120000 -0300" channel="Baby TV">
+    <title lang="pt">Lições de Teeny &amp; Tiny</title>
+  </programme>
+  <programme start="20200810120000 -0300" stop="20200810123000 -0300" channel="Baby TV">
+    <title lang="pt">Bons Amigos</title>
+  </programme>
+  <programme start="20200810123000 -0300" stop="20200810130000 -0300" channel="Baby TV">
+    <title lang="pt">Gee-Raffa</title>
+  </programme>
+  <programme start="20200810130000 -0300" stop="20200810133000 -0300" channel="Baby TV">
+    <title lang="pt">Parabéns à Você</title>
+  </programme>
+  <programme start="20200810133000 -0300" stop="20200810140000 -0300" channel="Baby TV">
+    <title lang="pt">Os Mini-Amigos</title>
+  </programme>
+  <programme start="20200810140000 -0300" stop="20200810143000 -0300" channel="Baby TV">
+    <title lang="pt">Os Ratinhos Construtores</title>
+  </programme>
+  <programme start="20200810143000 -0300" stop="20200810150000 -0300" channel="Baby TV">
+    <title lang="pt">Lições de Teeny &amp; Tiny</title>
+  </programme>
+  <programme start="20200810150000 -0300" stop="20200810153000 -0300" channel="Baby TV">
+    <title lang="pt">Mona e Sketch</title>
+  </programme>
+  <programme start="20200810153000 -0300" stop="20200810160000 -0300" channel="Baby TV">
+    <title lang="pt">Gee-Raffa</title>
+  </programme>
+  <programme start="20200810160000 -0300" stop="20200810163000 -0300" channel="Baby TV">
+    <title lang="pt">Parabéns à Você</title>
+  </programme>
+  <programme start="20200810163000 -0300" stop="20200810170000 -0300" channel="Baby TV">
+    <title lang="pt">Os Mini-Amigos</title>
+  </programme>
+  <programme start="20200810170000 -0300" stop="20200810173000 -0300" channel="Baby TV">
+    <title lang="pt">Charlie &amp; o Alfabeto Inglês</title>
+  </programme>
+  <programme start="20200810173000 -0300" stop="20200810180000 -0300" channel="Baby TV">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200810180000 -0300" stop="20200810183000 -0300" channel="Baby TV">
+    <title lang="pt">No Mundo Animal</title>
+  </programme>
+  <programme start="20200810183000 -0300" stop="20200810190000 -0300" channel="Baby TV">
+    <title lang="pt">Gee-Raffa</title>
+  </programme>
+  <programme start="20200810190000 -0300" stop="20200810193000 -0300" channel="Baby TV">
+    <title lang="pt">Os Mini-Amigos</title>
+  </programme>
+  <programme start="20200810193000 -0300" stop="20200810200000 -0300" channel="Baby TV">
+    <title lang="pt">Estúdios BabyTV</title>
+  </programme>
+  <programme start="20200810200000 -0300" stop="20200810203000 -0300" channel="Baby TV">
+    <title lang="pt">Melody Musical</title>
+  </programme>
+  <programme start="20200810203000 -0300" stop="20200810210000 -0300" channel="Baby TV">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200810210000 -0300" stop="20200810213000 -0300" channel="Baby TV">
+    <title lang="pt">Bonecos Adoráveis</title>
+  </programme>
+  <programme start="20200810213000 -0300" stop="20200810220000 -0300" channel="Baby TV">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200810220000 -0300" stop="20200810223000 -0300" channel="Baby TV">
+    <title lang="pt">Estrela Cadente</title>
+  </programme>
+  <programme start="20200810223000 -0300" stop="20200810230000 -0300" channel="Baby TV">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200810230000 -0300" stop="20200810233000 -0300" channel="Baby TV">
+    <title lang="pt">Crepúsculo</title>
+  </programme>
+  <programme start="20200810233000 -0300" stop="20200811000000 -0300" channel="Baby TV">
+    <title lang="pt">Estrela Cadente</title>
+  </programme>
+  <programme start="20200810000000 -0300" stop="20200810020000 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20200810020000 -0300" stop="20200810030000 -0300" channel="Band News">
+    <title lang="pt">Canal Livre</title>
+  </programme>
+  <programme start="20200810030000 -0300" stop="20200810040000 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20200810040000 -0300" stop="20200810043000 -0300" channel="Band News">
+    <title lang="pt">Jornal Terraviva</title>
+  </programme>
+  <programme start="20200810043000 -0300" stop="20200810060000 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20200810060000 -0300" stop="20200810073000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+  </programme>
+  <programme start="20200810073000 -0300" stop="20200810084500 -0300" channel="Band News">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20200810084500 -0300" stop="20200810090000 -0300" channel="Band News">
+    <title lang="pt">Giro Business</title>
+  </programme>
+  <programme start="20200810090000 -0300" stop="20200810103000 -0300" channel="Band News">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20200810103000 -0300" stop="20200810104500 -0300" channel="Band News">
+    <title lang="pt">Giro Business</title>
+  </programme>
+  <programme start="20200810104500 -0300" stop="20200810120000 -0300" channel="Band News">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20200810120000 -0300" stop="20200810140000 -0300" channel="Band News">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+  </programme>
+  <programme start="20200810140000 -0300" stop="20200810144500 -0300" channel="Band News">
+    <title lang="pt">Tarde Bandnews</title>
+  </programme>
+  <programme start="20200810144500 -0300" stop="20200810150000 -0300" channel="Band News">
+    <title lang="pt">Giro Business</title>
+  </programme>
+  <programme start="20200810150000 -0300" stop="20200810180000 -0300" channel="Band News">
+    <title lang="pt">Tarde Bandnews</title>
+  </programme>
+  <programme start="20200810180000 -0300" stop="20200810191500 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+  </programme>
+  <programme start="20200810191500 -0300" stop="20200810193000 -0300" channel="Band News">
+    <title lang="pt">Giro Business</title>
+  </programme>
+  <programme start="20200810193000 -0300" stop="20200810200000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+  </programme>
+  <programme start="20200810200000 -0300" stop="20200810203000 -0300" channel="Band News">
+    <title lang="pt">Expresso Bandnews</title>
+  </programme>
+  <programme start="20200810203000 -0300" stop="20200810213000 -0300" channel="Band News">
+    <title lang="pt">Jornal da Band</title>
+  </programme>
+  <programme start="20200810213000 -0300" stop="20200810220000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+  </programme>
+  <programme start="20200810220000 -0300" stop="20200810221500 -0300" channel="Band News">
+    <title lang="pt">Giro Business</title>
+  </programme>
+  <programme start="20200810221500 -0300" stop="20200810230000 -0300" channel="Band News">
+    <title lang="pt">Expresso Bandnews</title>
+  </programme>
+  <programme start="20200810230000 -0300" stop="20200810233000 -0300" channel="Band News">
+    <title lang="pt">Capital e Mercado</title>
+  </programme>
+  <programme start="20200810233000 -0300" stop="20200811000000 -0300" channel="Band News">
+    <title lang="pt">Totalmente Excelente</title>
+  </programme>
+  <programme start="20200810234500 -0300" stop="20200811004500 -0300" channel="Band Rede">
+    <title lang="pt">Canal Livre</title>
+  </programme>
+  <programme start="20200810210000 -0300" stop="20200811010000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20200810235800 -0300" stop="20200811004900 -0300" channel="BBC Earth">
+    <title lang="pt">Infestado! Vivendo Com Parasitas</title>
+  </programme>
+  <programme start="20200810000000 -0300" stop="20200810003000 -0300" channel="BBC World News">
+    <title lang="pt">BBC World News</title>
+  </programme>
+  <programme start="20200810003000 -0300" stop="20200810010000 -0300" channel="BBC World News">
+    <title lang="pt">HARDtalk</title>
+  </programme>
+  <programme start="20200810010000 -0300" stop="20200810023000 -0300" channel="BBC World News">
+    <title lang="pt">BBC World News</title>
+  </programme>
+  <programme start="20200810023000 -0300" stop="20200810030000 -0300" channel="BBC World News">
+    <title lang="pt">TBA</title>
+  </programme>
+  <programme start="20200810030000 -0300" stop="20200810033000 -0300" channel="BBC World News">
+    <title lang="pt">BBC World News</title>
+  </programme>
+  <programme start="20200810033000 -0300" stop="20200810040000 -0300" channel="BBC World News">
+    <title lang="pt">Talking Business</title>
+  </programme>
+  <programme start="20200810040000 -0300" stop="20200810043000 -0300" channel="BBC World News">
+    <title lang="pt">BBC World News</title>
+  </programme>
+  <programme start="20200810043000 -0300" stop="20200810050000 -0300" channel="BBC World News">
+    <title lang="pt">TBA</title>
+  </programme>
+  <programme start="20200810050000 -0300" stop="20200810053000 -0300" channel="BBC World News">
+    <title lang="pt">BBC World News</title>
+  </programme>
+  <programme start="20200810053000 -0300" stop="20200810060000 -0300" channel="BBC World News">
+    <title lang="pt">HARDtalk</title>
+  </programme>
+  <programme start="20200810060000 -0300" stop="20200810080000 -0300" channel="BBC World News">
+    <title lang="pt">BBC News</title>
+  </programme>
+  <programme start="20200810080000 -0300" stop="20200810093000 -0300" channel="BBC World News">
+    <title lang="pt">BBC World News</title>
+  </programme>
+  <programme start="20200810093000 -0300" stop="20200810100000 -0300" channel="BBC World News">
+    <title lang="pt">TBA</title>
+  </programme>
+  <programme start="20200810100000 -0300" stop="20200810103000 -0300" channel="BBC World News">
+    <title lang="pt">BBC World News</title>
+  </programme>
+  <programme start="20200810103000 -0300" stop="20200810110000 -0300" channel="BBC World News">
+    <title lang="pt">Talking Business</title>
+  </programme>
+  <programme start="20200810110000 -0300" stop="20200810113000 -0300" channel="BBC World News">
+    <title lang="pt">BBC World News</title>
+  </programme>
+  <programme start="20200810113000 -0300" stop="20200810120000 -0300" channel="BBC World News">
+    <title lang="pt">HARDtalk</title>
+  </programme>
+  <programme start="20200810120000 -0300" stop="20200810133000 -0300" channel="BBC World News">
+    <title lang="pt">BBC World News</title>
+  </programme>
+  <programme start="20200810133000 -0300" stop="20200810140000 -0300" channel="BBC World News">
+    <title lang="pt">TBA</title>
+  </programme>
+  <programme start="20200810140000 -0300" stop="20200810143000 -0300" channel="BBC World News">
+    <title lang="pt">BBC World News</title>
+  </programme>
+  <programme start="20200810143000 -0300" stop="20200810150000 -0300" channel="BBC World News">
+    <title lang="pt">Focus on Africa</title>
+  </programme>
+  <programme start="20200810150000 -0300" stop="20200810160000 -0300" channel="BBC World News">
+    <title lang="pt">BBC World News</title>
+  </programme>
+  <programme start="20200810160000 -0300" stop="20200810163000 -0300" channel="BBC World News">
+    <title lang="pt">Outside Source</title>
+  </programme>
+  <programme start="20200810163000 -0300" stop="20200810170000 -0300" channel="BBC World News">
+    <title lang="pt">HARDtalk</title>
+  </programme>
+  <programme start="20200810170000 -0300" stop="20200810180000 -0300" channel="BBC World News">
+    <title lang="pt">Outside Source</title>
+  </programme>
+  <programme start="20200810180000 -0300" stop="20200810183000 -0300" channel="BBC World News">
+    <title lang="pt">BBC World News America</title>
+  </programme>
+  <programme start="20200810183000 -0300" stop="20200810193000 -0300" channel="BBC World News">
+    <title lang="pt">BBC World News</title>
+  </programme>
+  <programme start="20200810193000 -0300" stop="20200810200000 -0300" channel="BBC World News">
+    <title lang="pt">BBC World News America</title>
+  </programme>
+  <programme start="20200810200000 -0300" stop="20200810203000 -0300" channel="BBC World News">
+    <title lang="pt">BBC World News</title>
+  </programme>
+  <programme start="20200810203000 -0300" stop="20200810210000 -0300" channel="BBC World News">
+    <title lang="pt">Witness History</title>
+  </programme>
+  <programme start="20200810210000 -0300" stop="20200810213000 -0300" channel="BBC World News">
+    <title lang="pt">BBC World News</title>
+  </programme>
+  <programme start="20200810213000 -0300" stop="20200810220000 -0300" channel="BBC World News">
+    <title lang="pt">Click</title>
+  </programme>
+  <programme start="20200810220000 -0300" stop="20200810223000 -0300" channel="BBC World News">
+    <title lang="pt">BBC World News</title>
+  </programme>
+  <programme start="20200810223000 -0300" stop="20200810224500 -0300" channel="BBC World News">
+    <title lang="pt">Asia Business Report</title>
+  </programme>
+  <programme start="20200810224500 -0300" stop="20200810230000 -0300" channel="BBC World News">
+    <title lang="pt">Sport Today</title>
+  </programme>
+  <programme start="20200810230000 -0300" stop="20200810233000 -0300" channel="BBC World News">
+    <title lang="pt">BBC World News</title>
+  </programme>
+  <programme start="20200810233000 -0300" stop="20200811000000 -0300" channel="BBC World News">
+    <title lang="pt">The Travel Show</title>
+  </programme>
+  <programme start="20200810000400 -0300" stop="20200810010600 -0300" channel="Bis HD">
+    <title lang="pt">Jazz Sous Les Pommiers - Fred Hersch Trio</title>
+  </programme>
+  <programme start="20200810010600 -0300" stop="20200810013500 -0300" channel="Bis HD">
+    <title lang="pt">Rock Estúdio</title>
+  </programme>
+  <programme start="20200810013500 -0300" stop="20200810020000 -0300" channel="Bis HD">
+    <title lang="pt">Video Killed The Radio Star - The Cure</title>
+  </programme>
+  <programme start="20200810020000 -0300" stop="20200810030000 -0300" channel="Bis HD">
+    <title lang="pt">Selena Gomez - Dreaming</title>
+  </programme>
+  <programme start="20200810030000 -0300" stop="20200810033000 -0300" channel="Bis HD">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20200810033000 -0300" stop="20200810040000 -0300" channel="Bis HD">
+    <title lang="pt">Samba Pra Sempre</title>
+  </programme>
+  <programme start="20200810040000 -0300" stop="20200810050000 -0300" channel="Bis HD">
+    <title lang="pt">Berlin Live</title>
+  </programme>
+  <programme start="20200810050000 -0300" stop="20200810053000 -0300" channel="Bis HD">
+    <title lang="pt">Experimente</title>
+  </programme>
+  <programme start="20200810053000 -0300" stop="20200810060000 -0300" channel="Bis HD">
+    <title lang="pt">Estúdio Do Dado</title>
+  </programme>
+  <programme start="20200810060000 -0300" stop="20200810063000 -0300" channel="Bis HD">
+    <title lang="pt">Pop Estrada</title>
+  </programme>
+  <programme start="20200810063000 -0300" stop="20200810070000 -0300" channel="Bis HD">
+    <title lang="pt">Álbum Musical</title>
+  </programme>
+  <programme start="20200810070000 -0300" stop="20200810073000 -0300" channel="Bis HD">
+    <title lang="pt">Lounge</title>
+  </programme>
+  <programme start="20200810073000 -0300" stop="20200810080000 -0300" channel="Bis HD">
+    <title lang="pt">Rock Legends - Pat Benatar</title>
+  </programme>
+  <programme start="20200810080000 -0300" stop="20200810090300 -0300" channel="Bis HD">
+    <title lang="pt">Later With Jools Holland</title>
+  </programme>
+  <programme start="20200810090300 -0300" stop="20200810093300 -0300" channel="Bis HD">
+    <title lang="pt">Canto Só</title>
+  </programme>
+  <programme start="20200810093300 -0300" stop="20200810100000 -0300" channel="Bis HD">
+    <title lang="pt">The Day The Rockstar Died</title>
+  </programme>
+  <programme start="20200810100000 -0300" stop="20200810110000 -0300" channel="Bis HD">
+    <title lang="pt">Sting: A Winter's Night - Live From Durham Cathedral</title>
+  </programme>
+  <programme start="20200810110000 -0300" stop="20200810120000 -0300" channel="Bis HD">
+    <title lang="pt">Eric Clapton: Live In San Diego</title>
+  </programme>
+  <programme start="20200810120000 -0300" stop="20200810130000 -0300" channel="Bis HD">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20200810130000 -0300" stop="20200810133000 -0300" channel="Bis HD">
+    <title lang="pt">Video Killed The Radio Star - The Cure</title>
+  </programme>
+  <programme start="20200810133000 -0300" stop="20200810143000 -0300" channel="Bis HD">
+    <title lang="pt">Selena Gomez - Dreaming</title>
+  </programme>
+  <programme start="20200810143000 -0300" stop="20200810150000 -0300" channel="Bis HD">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20200810150000 -0300" stop="20200810153000 -0300" channel="Bis HD">
+    <title lang="pt">Rock Estúdio</title>
+  </programme>
+  <programme start="20200810153000 -0300" stop="20200810160000 -0300" channel="Bis HD">
+    <title lang="pt">Mulheres Do Brasil</title>
+  </programme>
+  <programme start="20200810160000 -0300" stop="20200810170000 -0300" channel="Bis HD">
+    <title lang="pt">Versões</title>
+  </programme>
+  <programme start="20200810170000 -0300" stop="20200810180000 -0300" channel="Bis HD">
+    <title lang="pt">Jazz Sous Les Pommiers - Fred Hersch Trio</title>
+  </programme>
+  <programme start="20200810180000 -0300" stop="20200810190000 -0300" channel="Bis HD">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20200810190000 -0300" stop="20200810193000 -0300" channel="Bis HD">
+    <title lang="pt">Vamos Tocar</title>
+  </programme>
+  <programme start="20200810193000 -0300" stop="20200810200000 -0300" channel="Bis HD">
+    <title lang="pt">Experimente</title>
+  </programme>
+  <programme start="20200810200000 -0300" stop="20200810203000 -0300" channel="Bis HD">
+    <title lang="pt">Estúdio Do Dado</title>
+  </programme>
+  <programme start="20200810203000 -0300" stop="20200810210000 -0300" channel="Bis HD">
+    <title lang="pt">Rock Legends - Primal Scream</title>
+  </programme>
+  <programme start="20200810210000 -0300" stop="20200810223000 -0300" channel="Bis HD">
+    <title lang="pt">Muse: Drones World Tour</title>
+  </programme>
+  <programme start="20200810223000 -0300" stop="20200810230000 -0300" channel="Bis HD">
+    <title lang="pt">Imagine Dragons On At&amp;t Audience</title>
+  </programme>
+  <programme start="20200810230000 -0300" stop="20200810233000 -0300" channel="Bis HD">
+    <title lang="pt">Rock Estúdio</title>
+  </programme>
+  <programme start="20200810233000 -0300" stop="20200811000000 -0300" channel="Bis HD">
+    <title lang="pt">Lounge</title>
+  </programme>
+  <programme start="20200810230000 -0300" stop="20200811010000 -0300" channel="Bloomberg">
+    <title lang="pt">Bloomberg Markets</title>
+  </programme>
+  <programme start="20200810000000 -0300" stop="20200810002500 -0300" channel="Boomerang">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+  </programme>
+  <programme start="20200810002500 -0300" stop="20200810003000 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20200810003000 -0300" stop="20200810003500 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810003500 -0300" stop="20200810004100 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810004100 -0300" stop="20200810004800 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810004800 -0300" stop="20200810005400 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810005400 -0300" stop="20200810010000 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810010000 -0300" stop="20200810011100 -0300" channel="Boomerang">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+  </programme>
+  <programme start="20200810011100 -0300" stop="20200810012300 -0300" channel="Boomerang">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+  </programme>
+  <programme start="20200810012300 -0300" stop="20200810013500 -0300" channel="Boomerang">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+  </programme>
+  <programme start="20200810013500 -0300" stop="20200810014700 -0300" channel="Boomerang">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+  </programme>
+  <programme start="20200810014700 -0300" stop="20200810015900 -0300" channel="Boomerang">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+  </programme>
+  <programme start="20200810015900 -0300" stop="20200810020000 -0300" channel="Boomerang">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+  </programme>
+  <programme start="20200810020000 -0300" stop="20200810022200 -0300" channel="Boomerang">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+  </programme>
+  <programme start="20200810022200 -0300" stop="20200810024500 -0300" channel="Boomerang">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+  </programme>
+  <programme start="20200810024500 -0300" stop="20200810030000 -0300" channel="Boomerang">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+  </programme>
+  <programme start="20200810030000 -0300" stop="20200810031000 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20200810031000 -0300" stop="20200810032200 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20200810032200 -0300" stop="20200810033300 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20200810033300 -0300" stop="20200810034500 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20200810034500 -0300" stop="20200810035600 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20200810035600 -0300" stop="20200810040000 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20200810040000 -0300" stop="20200810041100 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20200810041100 -0300" stop="20200810042200 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20200810042200 -0300" stop="20200810043400 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20200810043400 -0300" stop="20200810044500 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20200810044500 -0300" stop="20200810045600 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20200810045600 -0300" stop="20200810050000 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20200810050000 -0300" stop="20200810051200 -0300" channel="Boomerang">
+    <title lang="pt">Inspetor Bugiganga</title>
+  </programme>
+  <programme start="20200810051200 -0300" stop="20200810052400 -0300" channel="Boomerang">
+    <title lang="pt">Inspetor Bugiganga</title>
+  </programme>
+  <programme start="20200810052400 -0300" stop="20200810053000 -0300" channel="Boomerang">
+    <title lang="pt">Inspetor Bugiganga</title>
+  </programme>
+  <programme start="20200810053000 -0300" stop="20200810053700 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20200810053700 -0300" stop="20200810054400 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20200810054400 -0300" stop="20200810055200 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20200810055200 -0300" stop="20200810055900 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20200810055900 -0300" stop="20200810060000 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20200810060000 -0300" stop="20200810060400 -0300" channel="Boomerang">
+    <title lang="pt">Inspetor Bugiganga</title>
+  </programme>
+  <programme start="20200810060400 -0300" stop="20200810061200 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20200810061200 -0300" stop="20200810063000 -0300" channel="Boomerang">
+    <title lang="pt">Inspetor Bugiganga</title>
+  </programme>
+  <programme start="20200810063000 -0300" stop="20200810063800 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20200810063800 -0300" stop="20200810064500 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20200810064500 -0300" stop="20200810065800 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20200810065800 -0300" stop="20200810070600 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20200810070600 -0300" stop="20200810071400 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20200810071400 -0300" stop="20200810072800 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20200810072800 -0300" stop="20200810073000 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20200810073000 -0300" stop="20200810073600 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20200810073600 -0300" stop="20200810073800 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20200810073800 -0300" stop="20200810075100 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20200810075100 -0300" stop="20200810080000 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20200810080000 -0300" stop="20200810080200 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810080200 -0300" stop="20200810080600 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20200810080600 -0300" stop="20200810081200 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810081200 -0300" stop="20200810082400 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810082400 -0300" stop="20200810083000 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810083000 -0300" stop="20200810083600 -0300" channel="Boomerang">
+    <title lang="pt">Taffy</title>
+  </programme>
+  <programme start="20200810083600 -0300" stop="20200810083700 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810083700 -0300" stop="20200810085000 -0300" channel="Boomerang">
+    <title lang="pt">Taffy</title>
+  </programme>
+  <programme start="20200810085000 -0300" stop="20200810085800 -0300" channel="Boomerang">
+    <title lang="pt">Taffy</title>
+  </programme>
+  <programme start="20200810085800 -0300" stop="20200810090000 -0300" channel="Boomerang">
+    <title lang="pt">Taffy</title>
+  </programme>
+  <programme start="20200810090000 -0300" stop="20200810090800 -0300" channel="Boomerang">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20200810090800 -0300" stop="20200810092300 -0300" channel="Boomerang">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20200810092300 -0300" stop="20200810093000 -0300" channel="Boomerang">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20200810093000 -0300" stop="20200810093500 -0300" channel="Boomerang">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20200810093500 -0300" stop="20200810093800 -0300" channel="Boomerang">
+    <title lang="pt">Sr. Peabody e Sherman Show</title>
+  </programme>
+  <programme start="20200810093800 -0300" stop="20200810095500 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+  </programme>
+  <programme start="20200810095500 -0300" stop="20200810095800 -0300" channel="Boomerang">
+    <title lang="pt">The Happos Family</title>
+  </programme>
+  <programme start="20200810095800 -0300" stop="20200810100000 -0300" channel="Boomerang">
+    <title lang="pt">The Happos Family</title>
+  </programme>
+  <programme start="20200810100000 -0300" stop="20200810100800 -0300" channel="Boomerang">
+    <title lang="pt">Mighty Mike</title>
+  </programme>
+  <programme start="20200810100800 -0300" stop="20200810101600 -0300" channel="Boomerang">
+    <title lang="pt">Mighty Mike</title>
+  </programme>
+  <programme start="20200810101600 -0300" stop="20200810103000 -0300" channel="Boomerang">
+    <title lang="pt">Mighty Mike</title>
+  </programme>
+  <programme start="20200810103000 -0300" stop="20200810103800 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20200810103800 -0300" stop="20200810104100 -0300" channel="Boomerang">
+    <title lang="pt">Mighty Mike</title>
+  </programme>
+  <programme start="20200810104100 -0300" stop="20200810105800 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20200810105800 -0300" stop="20200810110000 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20200810110000 -0300" stop="20200810110600 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20200810110600 -0300" stop="20200810111800 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20200810111800 -0300" stop="20200810112700 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20200810112700 -0300" stop="20200810113000 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20200810113000 -0300" stop="20200810113700 -0300" channel="Boomerang">
+    <title lang="pt">Zuzubalândia</title>
+  </programme>
+  <programme start="20200810113700 -0300" stop="20200810115000 -0300" channel="Boomerang">
+    <title lang="pt">Zuzubalândia</title>
+  </programme>
+  <programme start="20200810115000 -0300" stop="20200810115700 -0300" channel="Boomerang">
+    <title lang="pt">Zuzubalândia</title>
+  </programme>
+  <programme start="20200810115700 -0300" stop="20200810120000 -0300" channel="Boomerang">
+    <title lang="pt">Zuzubalândia</title>
+  </programme>
+  <programme start="20200810120000 -0300" stop="20200810120800 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20200810120800 -0300" stop="20200810122100 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20200810122100 -0300" stop="20200810123000 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20200810123000 -0300" stop="20200810123200 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20200810123200 -0300" stop="20200810124100 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20200810124100 -0300" stop="20200810125800 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20200810125800 -0300" stop="20200810130000 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20200810130000 -0300" stop="20200810132500 -0300" channel="Boomerang">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+  </programme>
+  <programme start="20200810132500 -0300" stop="20200810133000 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20200810133000 -0300" stop="20200810134100 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20200810134100 -0300" stop="20200810135800 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20200810135800 -0300" stop="20200810140000 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  </programme>
+  <programme start="20200810140000 -0300" stop="20200810140600 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810140600 -0300" stop="20200810141200 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810141200 -0300" stop="20200810142300 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810142300 -0300" stop="20200810142900 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810142900 -0300" stop="20200810143000 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810143000 -0300" stop="20200810143500 -0300" channel="Boomerang">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20200810143500 -0300" stop="20200810143800 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810143800 -0300" stop="20200810145200 -0300" channel="Boomerang">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20200810145200 -0300" stop="20200810145900 -0300" channel="Boomerang">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20200810145900 -0300" stop="20200810150000 -0300" channel="Boomerang">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20200810150000 -0300" stop="20200810150700 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20200810150700 -0300" stop="20200810151400 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20200810151400 -0300" stop="20200810152700 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20200810152700 -0300" stop="20200810153000 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20200810153000 -0300" stop="20200810153400 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20200810153400 -0300" stop="20200810153700 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20200810153700 -0300" stop="20200810155200 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20200810155200 -0300" stop="20200810155900 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20200810155900 -0300" stop="20200810160000 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20200810160000 -0300" stop="20200810162500 -0300" channel="Boomerang">
+    <title lang="pt">Barbie Dreamhouse Adventures</title>
+  </programme>
+  <programme start="20200810162500 -0300" stop="20200810163000 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20200810163000 -0300" stop="20200810170000 -0300" channel="Boomerang">
+    <title lang="pt">Lego Friends</title>
+  </programme>
+  <programme start="20200810170000 -0300" stop="20200810170800 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20200810170800 -0300" stop="20200810172100 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20200810172100 -0300" stop="20200810172500 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom e Jerry</title>
+  </programme>
+  <programme start="20200810172500 -0300" stop="20200810172900 -0300" channel="Boomerang">
+    <title lang="pt">The Happos Family</title>
+  </programme>
+  <programme start="20200810172900 -0300" stop="20200810173000 -0300" channel="Boomerang">
+    <title lang="pt">The Happos Family</title>
+  </programme>
+  <programme start="20200810173000 -0300" stop="20200810173800 -0300" channel="Boomerang">
+    <title lang="pt">Zuzubalândia</title>
+  </programme>
+  <programme start="20200810173800 -0300" stop="20200810174500 -0300" channel="Boomerang">
+    <title lang="pt">Zuzubalândia</title>
+  </programme>
+  <programme start="20200810174500 -0300" stop="20200810175800 -0300" channel="Boomerang">
+    <title lang="pt">Zuzubalândia</title>
+  </programme>
+  <programme start="20200810175800 -0300" stop="20200810180000 -0300" channel="Boomerang">
+    <title lang="pt">Zuzubalândia</title>
+  </programme>
+  <programme start="20200810180000 -0300" stop="20200810180500 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810180500 -0300" stop="20200810180600 -0300" channel="Boomerang">
+    <title lang="pt">Zuzubalândia</title>
+  </programme>
+  <programme start="20200810180600 -0300" stop="20200810181200 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810181200 -0300" stop="20200810182400 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810182400 -0300" stop="20200810183000 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810183000 -0300" stop="20200810183600 -0300" channel="Boomerang">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+  </programme>
+  <programme start="20200810183600 -0300" stop="20200810190000 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810190000 -0300" stop="20200810191100 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20200810191100 -0300" stop="20200810192800 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20200810192800 -0300" stop="20200810193000 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20200810193000 -0300" stop="20200810193800 -0300" channel="Boomerang">
+    <title lang="pt">Weeboom</title>
+  </programme>
+  <programme start="20200810193800 -0300" stop="20200810195100 -0300" channel="Boomerang">
+    <title lang="pt">Weeboom</title>
+  </programme>
+  <programme start="20200810195100 -0300" stop="20200810195800 -0300" channel="Boomerang">
+    <title lang="pt">Weeboom</title>
+  </programme>
+  <programme start="20200810195800 -0300" stop="20200810200000 -0300" channel="Boomerang">
+    <title lang="pt">Weeboom</title>
+  </programme>
+  <programme start="20200810200000 -0300" stop="20200810201200 -0300" channel="Boomerang">
+    <title lang="pt">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20200810201200 -0300" stop="20200810202900 -0300" channel="Boomerang">
+    <title lang="pt">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20200810202900 -0300" stop="20200810203000 -0300" channel="Boomerang">
+    <title lang="pt">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20200810203000 -0300" stop="20200810204200 -0300" channel="Boomerang">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+  </programme>
+  <programme start="20200810204200 -0300" stop="20200810205900 -0300" channel="Boomerang">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+  </programme>
+  <programme start="20200810205900 -0300" stop="20200810210000 -0300" channel="Boomerang">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+  </programme>
+  <programme start="20200810210000 -0300" stop="20200810210800 -0300" channel="Boomerang">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20200810210800 -0300" stop="20200810212200 -0300" channel="Boomerang">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20200810212200 -0300" stop="20200810213000 -0300" channel="Boomerang">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20200810213000 -0300" stop="20200810214100 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20200810214100 -0300" stop="20200810215800 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20200810215800 -0300" stop="20200810220000 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20200810220000 -0300" stop="20200810222500 -0300" channel="Boomerang">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+  </programme>
+  <programme start="20200810222500 -0300" stop="20200810223000 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20200810223000 -0300" stop="20200810223600 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810223600 -0300" stop="20200810224200 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810224200 -0300" stop="20200810225400 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810225400 -0300" stop="20200810230000 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+  </programme>
+  <programme start="20200810230000 -0300" stop="20200810230600 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20200810230600 -0300" stop="20200810231800 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20200810231800 -0300" stop="20200810232700 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20200810232700 -0300" stop="20200810233000 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+  </programme>
+  <programme start="20200810233000 -0300" stop="20200810233700 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20200810233700 -0300" stop="20200810235000 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20200810235000 -0300" stop="20200810235700 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20200810235700 -0300" stop="20200811000000 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20200810030000 -0300" stop="20200810050000 -0300" channel="Canal 21">
+    <title lang="pt">+ INFO</title>
+  </programme>
+  <programme start="20200810030000 -0300" stop="20200810043000 -0300" channel="Canal 21">
+    <title lang="pt">+ INFO</title>
+  </programme>
+  <programme start="20200810030000 -0300" stop="20200810043000 -0300" channel="Canal 21">
+    <title lang="pt">+ INFO</title>
+  </programme>
+  <programme start="20200810030000 -0300" stop="20200810043000 -0300" channel="Canal 21">
+    <title lang="pt">+ INFO</title>
+  </programme>
+  <programme start="20200810030000 -0300" stop="20200810043000 -0300" channel="Canal 21">
+    <title lang="pt">+ INFO</title>
+  </programme>
+  <programme start="20200810030000 -0300" stop="20200810043000 -0300" channel="Canal 21">
+    <title lang="pt">+ INFO</title>
+  </programme>
+  <programme start="20200810030000 -0300" stop="20200810043000 -0300" channel="Canal 21">
+    <title lang="pt">+ INFO</title>
+  </programme>
+  <programme start="20200810043000 -0300" stop="20200810050000 -0300" channel="Canal 21">
+    <title lang="pt">Jornal Terra Viva</title>
+  </programme>
+  <programme start="20200810043000 -0300" stop="20200810050000 -0300" channel="Canal 21">
+    <title lang="pt">Jornal Terra Viva</title>
+  </programme>
+  <programme start="20200810043000 -0300" stop="20200810050000 -0300" channel="Canal 21">
+    <title lang="pt">Jornal Terra Viva</title>
+  </programme>
+  <programme start="20200810043000 -0300" stop="20200810050000 -0300" channel="Canal 21">
+    <title lang="pt">Jornal Terra Viva</title>
+  </programme>
+  <programme start="20200810043000 -0300" stop="20200810050000 -0300" channel="Canal 21">
+    <title lang="pt">Jornal Terra Viva</title>
+  </programme>
+  <programme start="20200810043000 -0300" stop="20200810050000 -0300" channel="Canal 21">
+    <title lang="pt">Jornal Terra Viva</title>
+  </programme>
+  <programme start="20200810222200 -0300" stop="20200811002200 -0300" channel="Canal Brasil">
+    <title lang="pt">10 Segundos para Vencer</title>
+  </programme>
+  <programme start="20200810000000 -0300" stop="20200810053000 -0300" channel="Canal do Boi">
+    <title lang="pt">Cine Canal</title>
+  </programme>
+  <programme start="20200810053000 -0300" stop="20200810063000 -0300" channel="Canal do Boi">
+    <title lang="pt">Agricultura Br</title>
+  </programme>
+  <programme start="20200810063000 -0300" stop="20200810064500 -0300" channel="Canal do Boi">
+    <title lang="pt">Agenda de Leilões</title>
+  </programme>
+  <programme start="20200810064500 -0300" stop="20200810070000 -0300" channel="Canal do Boi">
+    <title lang="pt">Café Com Boi</title>
+  </programme>
+  <programme start="20200810070000 -0300" stop="20200810083000 -0300" channel="Canal do Boi">
+    <title lang="pt">Bom Dia Produtor</title>
+  </programme>
+  <programme start="20200810083000 -0300" stop="20200810093000 -0300" channel="Canal do Boi">
+    <title lang="pt">Zenlife</title>
+  </programme>
+  <programme start="20200810093000 -0300" stop="20200810103000 -0300" channel="Canal do Boi">
+    <title lang="pt">Matsuda</title>
+  </programme>
+  <programme start="20200810103000 -0300" stop="20200810104500 -0300" channel="Canal do Boi">
+    <title lang="pt">Agenda de Leilões</title>
+  </programme>
+  <programme start="20200810104500 -0300" stop="20200810113000 -0300" channel="Canal do Boi">
+    <title lang="pt">Zebu para o Mundo</title>
+  </programme>
+  <programme start="20200810113000 -0300" stop="20200810114500 -0300" channel="Canal do Boi">
+    <title lang="pt">Ourofino em Campo</title>
+  </programme>
+  <programme start="20200810114500 -0300" stop="20200810115500 -0300" channel="Canal do Boi">
+    <title lang="pt">Matsuda</title>
+  </programme>
+  <programme start="20200810115500 -0300" stop="20200810121000 -0300" channel="Canal do Boi">
+    <title lang="pt">Agenda de Leilões</title>
+  </programme>
+  <programme start="20200810121000 -0300" stop="20200810133000 -0300" channel="Canal do Boi">
+    <title lang="pt">Agricultura Br</title>
+  </programme>
+  <programme start="20200810133000 -0300" stop="20200810140000 -0300" channel="Canal do Boi">
+    <title lang="pt">Mercado Futuro</title>
+  </programme>
+  <programme start="20200810140000 -0300" stop="20200810143000 -0300" channel="Canal do Boi">
+    <title lang="pt">Champion</title>
+  </programme>
+  <programme start="20200810143000 -0300" stop="20200810150000 -0300" channel="Canal do Boi">
+    <title lang="pt">Ruminar Ao Vivo</title>
+  </programme>
+  <programme start="20200810150000 -0300" stop="20200810153000 -0300" channel="Canal do Boi">
+    <title lang="pt">Germipasto</title>
+  </programme>
+  <programme start="20200810153000 -0300" stop="20200810160000 -0300" channel="Canal do Boi">
+    <title lang="pt">Zenlife</title>
+  </programme>
+  <programme start="20200810160000 -0300" stop="20200810163000 -0300" channel="Canal do Boi">
+    <title lang="pt">Agricultura Br</title>
+  </programme>
+  <programme start="20200810163000 -0300" stop="20200810191500 -0300" channel="Canal do Boi">
+    <title lang="pt">+ Pecuária</title>
+  </programme>
+  <programme start="20200810191500 -0300" stop="20200810193000 -0300" channel="Canal do Boi">
+    <title lang="pt">Terra Pecuária</title>
+  </programme>
+  <programme start="20200810193000 -0300" stop="20200810203000 -0300" channel="Canal do Boi">
+    <title lang="pt">Na Batida do Martelo</title>
+  </programme>
+  <programme start="20200810203000 -0300" stop="20200811000000 -0300" channel="Canal do Boi">
+    <title lang="pt">Leilão Virtual - Matrizes Bela Alvorada</title>
+  </programme>
+  <programme start="20200810000000 -0300" stop="20200810010000 -0300" channel="Canal Rural">
+    <title lang="pt">Mega Liquidação Aliança - Segunda Edição</title>
+  </programme>
+  <programme start="20200810010000 -0300" stop="20200810012000 -0300" channel="Canal Rural">
+    <title lang="pt">Ilex, A Busca Pelo Sabor</title>
+  </programme>
+  <programme start="20200810012000 -0300" stop="20200810012500 -0300" channel="Canal Rural">
+    <title lang="pt">Rural Store</title>
+  </programme>
+  <programme start="20200810012500 -0300" stop="20200810013000 -0300" channel="Canal Rural">
+    <title lang="pt">Floresta S/a</title>
+  </programme>
+  <programme start="20200810013000 -0300" stop="20200810020000 -0300" channel="Canal Rural">
+    <title lang="pt">Ligados e Integrados</title>
+  </programme>
+  <programme start="20200810020000 -0300" stop="20200810023000 -0300" channel="Canal Rural">
+    <title lang="pt">AG Evolution</title>
+  </programme>
+  <programme start="20200810023000 -0300" stop="20200810024000 -0300" channel="Canal Rural">
+    <title lang="pt">Cupim Sabor Nelore</title>
+  </programme>
+  <programme start="20200810024000 -0300" stop="20200810025000 -0300" channel="Canal Rural">
+    <title lang="pt">Perfil Rural</title>
+  </programme>
+  <programme start="20200810025000 -0300" stop="20200810030000 -0300" channel="Canal Rural">
+    <title lang="pt">Rural Store</title>
+  </programme>
+  <programme start="20200810030000 -0300" stop="20200810060000 -0300" channel="Canal Rural">
+    <title lang="pt">TV Verdade</title>
+  </programme>
+  <programme start="20200810060000 -0300" stop="20200810063000 -0300" channel="Canal Rural">
+    <title lang="pt">Resenha do Cooperativismo</title>
+  </programme>
+  <programme start="20200810063000 -0300" stop="20200810070000 -0300" channel="Canal Rural">
+    <title lang="pt">Nação Agro Entrevista</title>
+  </programme>
+  <programme start="20200810070000 -0300" stop="20200810080000 -0300" channel="Canal Rural">
+    <title lang="pt">Giro do Boi</title>
+  </programme>
+  <programme start="20200810080000 -0300" stop="20200810081000 -0300" channel="Canal Rural">
+    <title lang="pt">Pecuária Em Alta</title>
+  </programme>
+  <programme start="20200810081000 -0300" stop="20200810083000 -0300" channel="Canal Rural">
+    <title lang="pt">Ilex, A Busca Pelo Sabor</title>
+  </programme>
+  <programme start="20200810083000 -0300" stop="20200810085000 -0300" channel="Canal Rural">
+    <title lang="pt">Técnica Rural</title>
+  </programme>
+  <programme start="20200810085000 -0300" stop="20200810090000 -0300" channel="Canal Rural">
+    <title lang="pt">Rural Store</title>
+  </programme>
+  <programme start="20200810090000 -0300" stop="20200810092000 -0300" channel="Canal Rural">
+    <title lang="pt">Ilex, A Busca Pelo Sabor</title>
+  </programme>
+  <programme start="20200810092000 -0300" stop="20200810093000 -0300" channel="Canal Rural">
+    <title lang="pt">De Bem Com a Comida</title>
+  </programme>
+  <programme start="20200810093000 -0300" stop="20200810113000 -0300" channel="Canal Rural">
+    <title lang="pt">Champion Saúde Animal</title>
+  </programme>
+  <programme start="20200810113000 -0300" stop="20200810120000 -0300" channel="Canal Rural">
+    <title lang="pt">Ligados e Integrados</title>
+  </programme>
+  <programme start="20200810120000 -0300" stop="20200810122000 -0300" channel="Canal Rural">
+    <title lang="pt">Ilex, A Busca Pelo Sabor</title>
+  </programme>
+  <programme start="20200810122000 -0300" stop="20200810133000 -0300" channel="Canal Rural">
+    <title lang="pt">Mercado &amp; Cia</title>
+  </programme>
+  <programme start="20200810133000 -0300" stop="20200810140000 -0300" channel="Canal Rural">
+    <title lang="pt">Economia 360</title>
+  </programme>
+  <programme start="20200810140000 -0300" stop="20200810163500 -0300" channel="Canal Rural">
+    <title lang="pt">Televendas Marilda</title>
+  </programme>
+  <programme start="20200810163500 -0300" stop="20200810164500 -0300" channel="Canal Rural">
+    <title lang="pt">De Bem Com a Comida</title>
+  </programme>
+  <programme start="20200810164500 -0300" stop="20200810183500 -0300" channel="Canal Rural">
+    <title lang="pt">Champion Saúde Animal</title>
+  </programme>
+  <programme start="20200810183500 -0300" stop="20200810193000 -0300" channel="Canal Rural">
+    <title lang="pt">Rural Notícias</title>
+  </programme>
+  <programme start="20200810193000 -0300" stop="20200810194000 -0300" channel="Canal Rural">
+    <title lang="pt">Rural Store</title>
+  </programme>
+  <programme start="20200810194000 -0300" stop="20200810195000 -0300" channel="Canal Rural">
+    <title lang="pt">Floresta S/a</title>
+  </programme>
+  <programme start="20200810195000 -0300" stop="20200810200000 -0300" channel="Canal Rural">
+    <title lang="pt">Pecuária Em Alta</title>
+  </programme>
+  <programme start="20200810200000 -0300" stop="20200810203000 -0300" channel="Canal Rural">
+    <title lang="pt">Lance na TV</title>
+  </programme>
+  <programme start="20200810203000 -0300" stop="20200811000000 -0300" channel="Canal Rural">
+    <title lang="pt">Leilão Virtual Pecuária Seletiva Nelore Beka</title>
   </programme>
 </tv>
